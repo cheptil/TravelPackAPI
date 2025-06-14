@@ -1,0 +1,79 @@
+{
+  "places": [
+    {
+      "name": "London",
+      "type": "PLACE_TYPE_CITY",
+      "entityId": "27544008",
+      "location": "51.5074, -0.1278",
+      "hierarchy": "United Kingdom > England > London",
+      "highlight": {
+        "name": [
+          {
+            "start": 0,
+            "end": 4
+          }
+        ]
+      }
+    },
+    {
+      "name": "London Heathrow Airport",
+      "type": "PLACE_TYPE_AIRPORT",
+      "entityId": "27539793",
+      "location": "51.4700, -0.4543",
+      "hierarchy": "United Kingdom > England > London > London Heathrow Airport",
+      "highlight": {
+        "name": [
+          {
+            "start": 0,
+            "end": 4
+          }
+        ]
+      }
+    },
+    {
+      "name": "London Gatwick Airport",
+      "type": "PLACE_TYPE_AIRPORT",
+      "entityId": "27539794",
+      "location": "51.1481, -0.1903",
+      "hierarchy": "United Kingdom > England > London > London Gatwick Airport",
+      "highlight": {
+        "name": [
+          {
+            "start": 0,
+            "end": 4
+          }
+        ]
+      }
+    },
+    {
+      "name": "London Stansted Airport",
+      "type": "PLACE_TYPE_AIRPORT",
+      "entityId": "27539795",
+      "location": "51.8860, 0.2389",
+      "hierarchy": "United Kingdom > England > London > London Stansted Airport",
+      "highlight": {
+        "name": [
+          {
+            "start": 0,
+            "end": 4
+          }
+        ]
+      }
+    },
+    {
+      "name": "London Bridge",
+      "type": "PLACE_TYPE_DISTRICT",
+      "entityId": "27544009",
+      "location": "51.5045, -0.0865",
+      "hierarchy": "United Kingdom > England > London > London Bridge",
+      "highlight": {
+        "name": [
+          {
+            "start": 0,
+            "end": 4
+          }
+        ]
+      }
+    }
+  ]
+}

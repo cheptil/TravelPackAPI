@@ -1,0 +1,39 @@
+{
+  "places": [
+    {
+      "name": "London",
+      "type": "PLACE_TYPE_CITY",
+      "entityId": "27544008",
+      "location": "51.5074, -0.1278",
+      "hierarchy": "United Kingdom > England > London"
+    },
+    {
+      "name": "Manchester",
+      "type": "PLACE_TYPE_CITY",
+      "entityId": "27544010",
+      "location": "53.4808, -2.2426",
+      "hierarchy": "United Kingdom > England > Manchester"
+    },
+    {
+      "name": "Birmingham",
+      "type": "PLACE_TYPE_CITY",
+      "entityId": "27544011",
+      "location": "52.4862, -1.8904",
+      "hierarchy": "United Kingdom > England > Birmingham"
+    },
+    {
+      "name": "Edinburgh",
+      "type": "PLACE_TYPE_CITY",
+      "entityId": "27544012",
+      "location": "55.9533, -3.1883",
+      "hierarchy": "United Kingdom > Scotland > Edinburgh"
+    },
+    {
+      "name": "Glasgow",
+      "type": "PLACE_TYPE_CITY",
+      "entityId": "27544013",
+      "location": "55.8642, -4.2518",
+      "hierarchy": "United Kingdom > Scotland > Glasgow"
+    }
+  ]
+}
