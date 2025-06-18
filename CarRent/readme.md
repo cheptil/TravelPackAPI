@@ -1,34 +1,10 @@
-ОБЗОРЫ:
-https://medium.com/@test.altexxsoft/car-rental-apis-integrations-with-gdss-otas-and-tech-providers-d4a3e4e9ea09
-https://www.quora.com/Is-there-an-API-for-rental-Car-pricing
-
-
-
-API:
-https://developer.avis.com/docs
-https://developer.avis.com/getting-started
-https://developer.avis.com/docs#swagger-ui
-
-https://developers.booking.com/demand/docs/open-api/demand-api/accommodations
-https://developers.booking.com/demand/docs/cars/overview
-
-
-
-https://developer.sabre.com/docs/rest_apis/utility/geo_search
-
-
-
-https://developers.sixt.com/login/?redirect=share
-
-https://developers.amadeus.com/pricing
-https://developers.amadeus.com/self-service/category/cars-and-transfers/api-doc/transfer-search
-
-https://developers.skyscanner.net/docs/autosuggest/car-hire
-https://developers.skyscanner.net/docs/carhire-indicative-prices/overview
-
-
-https://rapidapi.com/nilesh160195/api/trawex-car-rental/playground/apiendpoint_58311952-99f9-4e3d-a255-ccb870900a6a
-
-
-http://developer.ean.com
-
+| # | Провайдер / название API            | Документация (пример URL)                                                                                                                                                                          |
+| - | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | Avis Car Rental API                 | [https://developer.avis.com/docs](https://developer.avis.com/docs)                                                                                                                                 |
+| 2 | Booking.com Cars API                | [https://developers.booking.com/demand/docs/cars/overview](https://developers.booking.com/demand/docs/cars/overview)                                                                               |
+| 3 | Sabre Geo Search API                | [https://developer.sabre.com/docs/rest\_apis/utility/geo\_search](https://developer.sabre.com/docs/rest_apis/utility/geo_search)                                                                   |
+| 4 | Sixt Developer API                  | [https://developers.sixt.com/login/](https://developers.sixt.com/login/)                                                                                                                           |
+| 5 | Amadeus Cars & Transfers API        | [https://developers.amadeus.com/self-service/category/cars-and-transfers/api-doc/transfer-search](https://developers.amadeus.com/self-service/category/cars-and-transfers/api-doc/transfer-search) |
+| 6 | Skyscanner Car Hire API             | [https://developers.skyscanner.net/docs/autosuggest/car-hire](https://developers.skyscanner.net/docs/autosuggest/car-hire)                                                                         |
+| 7 | Trawex Car Rental API (RapidAPI)    | [https://rapidapi.com/nilesh160195/api/trawex-car-rental](https://rapidapi.com/nilesh160195/api/trawex-car-rental)                                                                                 |
+| 8 | Expedia Affiliate Network (EAN) API | [http://developer.ean.com](http://developer.ean.com)                                                                                                                                               |
