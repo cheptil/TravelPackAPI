@@ -1,84 +1,22 @@
-ОБЗОРЫ:
-
-https://publicapis.dev/category/food-and-drink
-
-https://sevenrooms.com/platform/integrations-apis/
-
-
-
-API:
-
-https://www.yelp.com/developers
-
-https://docs.developer.yelp.com/docs/fusion-intro
-
-https://github.com/gosom/google-maps-scraper
-
-https://www.tripadvisor.com/developers
-
-https://tripadvisor-content-api.readme.io/reference/overview
-
-https://developers.google.com/maps/documentation/places/web-service/overview?hl=ru
-
-https://foursquare.com/developer/#hero-banner-a13a8b3a-611e-4a9c-b8a2-5ad139eb307d
-
-https://ru.foursquare.com/developers/home
-
-https://rapidapi.com/collection/restaurant-api
-
-https://rapidapi.com/collection/food-apis
-
-https://documenter.getpostman.com/view/12204297/TVKJwEWL#e2d6e76c-9c72-47ae-a5fe-120fd962a684
-
-https://restaurant-api.dicoding.dev/#/
-
-https://docs.strapi.io/cms/quick-start
-
-https://restaurantapi.readthedocs.io/en/latest/
-
-https://docs.strapi.io/cms/api/rest
-
-https://www.postman.com/api-evangelist/api-fest-restaurants/documentation/uwvjcmp/restaurants-api
-
-https://apileague.com/apis/search-restaurants-api/
-
-https://developers.google.com/maps/documentation/places/web-service/overview?hl=ru
-
-https://yandex.ru/dev/eda-vendor/doc/ru/ref/Restorany/
-
-https://doc.toasttab.com/doc/devguide/apiRestaurantInformation.html
-
-https://apify.com/jupri/thefork/api
-
-https://docs.thefork.io/POS-API/introduction
-
-https://www.themealdb.com/api.php
-
-https://documenter.getpostman.com/view/6173104/S1Lr4Av4
-
-https://apify.com/compass/crawler-google-places
-
-https://restaurant.eatapp.co/knowledge/using-the-eat-app-partner-api-to-get-and-post-availability
-
-https://github.com/vaibhavmakhloga/Zomato-API
-
-https://github.com/MehtaShruti/Zomato-Restaurants-Recommendations
-
-https://github.com/TUM-Dev/eat-api
-
-https://github.com/mustafaansarii/Restaurant_Data_Analysis
-
-https://github.com/alicjakalisz/restaurants_api
-
-https://github.com/cristianleoo/tinder_of_food
-
-https://github.com/cal65/Open-Rice
-
-https://outscraper.com/es/google-maps-api/
-
-https://restaurant.eatapp.co/knowledge/using-the-eat-app-partner-api-to-get-and-post-availability
-
-https://brunch.io/docs/plugins
-
-https://docs.2gis.com/ru
-
+| #  | Провайдер / название API                       | Пример URL к документации                                                                                                                                                                              |
+| -- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | **Yelp Fusion API**                            | [https://docs.developer.yelp.com/docs/fusion-intro](https://docs.developer.yelp.com/docs/fusion-intro)                                                                                                 |
+| 2  | **TripAdvisor Content API**                    | [https://tripadvisor-content-api.readme.io/reference/overview](https://tripadvisor-content-api.readme.io/reference/overview)                                                                           |
+| 3  | **Google Places API (Web Service)**            | [https://developers.google.com/maps/documentation/places/web-service/overview?hl=ru](https://developers.google.com/maps/documentation/places/web-service/overview?hl=ru)                               |
+| 4  | **Foursquare Places API**                      | [https://foursquare.com/developer](https://foursquare.com/developer)                                                                                                                                   |
+| 5  | **SevenRooms Integrations API**                | [https://sevenrooms.com/platform/integrations-apis/](https://sevenrooms.com/platform/integrations-apis/)                                                                                               |
+| 6  | **Strapi REST API (Restaurant модель)**        | [https://docs.strapi.io/cms/api/rest](https://docs.strapi.io/cms/api/rest)                                                                                                                             |
+| 7  | **Dicoding Restaurant API**                    | [https://restaurant-api.dicoding.dev/#/](https://restaurant-api.dicoding.dev/#/)                                                                                                                       |
+| 8  | **API League — Search Restaurants API**        | [https://apileague.com/apis/search-restaurants-api/](https://apileague.com/apis/search-restaurants-api/)                                                                                               |
+| 9  | **Яндекс Еда Vendor API**                      | [https://yandex.ru/dev/eda-vendor/doc/ru/ref/Restorany/](https://yandex.ru/dev/eda-vendor/doc/ru/ref/Restorany/)                                                                                       |
+| 10 | **Toast Tab Restaurant Information API**       | [https://doc.toasttab.com/doc/devguide/apiRestaurantInformation.html](https://doc.toasttab.com/doc/devguide/apiRestaurantInformation.html)                                                             |
+| 11 | **TheFork POS/Partner API**                    | [https://docs.thefork.io/POS-API/introduction](https://docs.thefork.io/POS-API/introduction)                                                                                                           |
+| 12 | **TheMealDB API**                              | [https://www.themealdb.com/api.php](https://www.themealdb.com/api.php)                                                                                                                                 |
+| 13 | **EatApp Partner API**                         | [https://restaurant.eatapp.co/knowledge/using-the-eat-app-partner-api-to-get-and-post-availability](https://restaurant.eatapp.co/knowledge/using-the-eat-app-partner-api-to-get-and-post-availability) |
+| 14 | **Zomato API (community wrapper)**             | [https://github.com/vaibhavmakhloga/Zomato-API](https://github.com/vaibhavmakhloga/Zomato-API)                                                                                                         |
+| 15 | **OutScraper Google Maps API**                 | [https://outscraper.com/es/google-maps-api/](https://outscraper.com/es/google-maps-api/)                                                                                                               |
+| 16 | **Apify Google Places Crawler API**            | [https://apify.com/compass/crawler-google-places](https://apify.com/compass/crawler-google-places)                                                                                                     |
+| 17 | **Apify TheFork Scraper API**                  | [https://apify.com/jupri/thefork/api](https://apify.com/jupri/thefork/api)                                                                                                                             |
+| 18 | **RapidAPI — Restaurant APIs Collection**      | [https://rapidapi.com/collection/restaurant-api](https://rapidapi.com/collection/restaurant-api)                                                                                                       |
+| 19 | **Postman “API Fest Restaurants” Example API** | [https://www.postman.com/api-evangelist/api-fest-restaurants/documentation/uwvjcmp/restaurants-api](https://www.postman.com/api-evangelist/api-fest-restaurants/documentation/uwvjcmp/restaurants-api) |
+| 20 | **2GIS Places API**                            | [https://docs.2gis.com/ru](https://docs.2gis.com/ru)                                                                                                                                                   |
