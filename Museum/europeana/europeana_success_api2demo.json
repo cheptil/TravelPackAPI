@@ -1,0 +1,166 @@
+{
+  "apikey": "api2demo",
+  "success": true,
+  "requestNumber": 999,
+  "itemsCount": 1,
+  "totalResults": 2535244,
+  "items": [
+    {
+      "dataProvider": [
+        "Museum of Gothenburg"
+      ],
+      "dcCreator": [
+        "Reza, Yasmina",
+        "Sandell, Gill [scenografi; kostym], Borgman, Lotta [scenografiass.; kostymass.]",
+        "Hallman, Björn",
+        "Strömholm, Joakim",
+        "Strömholm, Joakim",
+        "Reza, Yasmina",
+        "Sandell, Gill [scenography; suit], Borgman, Lotta [scenographiass; suit.]",
+        "Hallman, Björn",
+        "Strömholm, Joakim",
+        "Reza, Yasmina",
+        "Sandell, Gill [scenografi; kostym], Borgman, Lotta [scenografiass.; kostymass.]"
+      ],
+      "dcCreatorLangAware": {
+        "sv": [
+          "Reza, Yasmina",
+          "Sandell, Gill [scenografi; kostym], Borgman, Lotta [scenografiass.; kostymass.]",
+          "Hallman, Björn",
+          "Strömholm, Joakim",
+          "Strömholm, Joakim"
+        ],
+        "def": [
+          "Reza, Yasmina",
+          "Sandell, Gill [scenografi; kostym], Borgman, Lotta [scenografiass.; kostymass.]"
+        ],
+        "en": [
+          "Reza, Yasmina",
+          "Sandell, Gill [scenography; suit], Borgman, Lotta [scenographiass; suit.]",
+          "Hallman, Björn",
+          "Strömholm, Joakim"
+        ]
+      },
+      "dcDescription": [
+        "Wollter, Sven",
+        "Marc",
+        "Reza, Yasmina",
+        "Norlén, Calle",
+        "Schmitz, Michael [ass.]",
+        "Sandell, Gill [scenografi; kostym]",
+        "Borgman, Lotta [scenografiass.; kostymass.]",
+        "Taube, Sven-Bertil, 1934-2022",
+        "Rabaeus, Johan",
+        "komedi",
+        "program, recensioner",
+        "Musik- och teaterföreställningar (545)",
+        "Strömholm, Joakim",
+        "Ryberger, Thomas",
+        "Fee, Amy [ass.]",
+        "Serge",
+        "Yvan",
+        "Serge",
+        "Marc",
+        "Yvan",
+        "Reza, Yasmina",
+        "Norlén, Calle",
+        "Stora teatern",
+        "Schmitz, Michael [ass.]",
+        "Ryberger, Thomas",
+        "Fee, Amy [ass.]",
+        "Sandell, Gill [scenografi; kostym]",
+        "Borgman, Lotta [scenografiass.; kostymass.]",
+        "Taube, Sven-Bertil, 1934-2022",
+        "Wollter, Sven",
+        "Rabaeus, Johan",
+        "komedi",
+        "program, recensioner"
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Wollter, Sven"
+        ],
+        "sv": [
+          "Marc",
+          "Reza, Yasmina",
+          "Norlén, Calle",
+          "Schmitz, Michael [ass.]",
+          "Sandell, Gill [scenografi; kostym]",
+          "Borgman, Lotta [scenografiass.; kostymass.]",
+          "Taube, Sven-Bertil, 1934-2022",
+          "Rabaeus, Johan",
+          "komedi",
+          "program, recensioner",
+          "Musik- och teaterföreställningar (545)",
+          "Strömholm, Joakim"
+        ],
+        "def": [
+          "Serge",
+          "Marc",
+          "Yvan",
+          "Reza, Yasmina",
+          "Norlén, Calle",
+          "Stora teatern",
+          "Schmitz, Michael [ass.]",
+          "Ryberger, Thomas",
+          "Fee, Amy [ass.]",
+          "Sandell, Gill [scenografi; kostym]",
+          "Borgman, Lotta [scenografiass.; kostymass.]",
+          "Taube, Sven-Bertil, 1934-2022",
+          "Wollter, Sven",
+          "Rabaeus, Johan",
+          "komedi",
+          "program, recensioner"
+        ],
+        "en": [
+          "Ryberger, Thomas",
+          "Fee, Amy [ass.]"
+        ],
+        "fr": [
+          "Serge",
+          "Yvan"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "Art, 1997, Art"
+        ],
+        "def": [
+          "Art, 1997, Art"
+        ],
+        "en": [
+          "Art, 1997, Art"
+        ]
+      },
+      "edmIsShownAt": [
+        "https://samlingar.goteborgsstadsmuseum.se/carlotta/web/object/682045"
+      ],
+      "edmIsShownBy": [
+        "https://samlingar.goteborgsstadsmuseum.se/carlotta/web/image/zoom/838410/Art%2C+1997.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsamlingar.goteborgsstadsmuseum.se%2Fcarlotta%2Fweb%2Fimage%2Fzoom%2F838410%2FArt%252C%2B1997.jpg&type=TEXT"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/916100/GSM_event_682045?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "id": "/916100/GSM_event_682045",
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/916100/GSM_event_682045.json?wskey=api2demo",
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 60.842808,
+      "title": [
+        "Art, 1997, Art",
+        "Art, 1997, Art",
+        "Art, 1997, Art"
+      ],
+      "type": "TEXT"
+    }
+  ]
+}

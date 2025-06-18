@@ -1,0 +1,1045 @@
+{
+  "apikey": "api2demo",
+  "success": true,
+  "requestNumber": 999,
+  "itemsCount": 3,
+  "totalResults": 1442,
+  "items": [
+    {
+      "completeness": 10,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Rijksmuseum"
+      ],
+      "dcDescription": [
+        "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian.",
+        "Nadat hij van zijn broer Theo had gehoord over de nieuwe kleurige Franse schilderkunst, ging Vincent in 1886 in Parijs wonen. Al snel probeerde hij de Franse stijl uit op een aantal zelfportretten. Dit deed hij vooral om de kosten voor een model uit te sparen. Hier schilderde hij zichzelf als een mondain geklede Parijzenaar, met losse, ritmische penseelstreken in opvallende kleuren."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Vincent moved to Paris in 1886, after hearing from his brother Theo about the new, colourful style of French painting. Wasting no time, he tried it out in several self-portraits. He did this mostly to avoid having to pay for a model. Using rhythmic brushstrokes in striking colours, he portrayed himself here as a fashionably dressed Parisian."
+        ],
+        "nl": [
+          "Nadat hij van zijn broer Theo had gehoord over de nieuwe kleurige Franse schilderkunst, ging Vincent in 1886 in Parijs wonen. Al snel probeerde hij de Franse stijl uit op een aantal zelfportretten. Dit deed hij vooral om de kosten voor een model uit te sparen. Hier schilderde hij zichzelf als een mondain geklede Parijzenaar, met losse, ritmische penseelstreken in opvallende kleuren."
+        ]
+      },
+      "dcLanguage": [
+        "nl"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "nl"
+        ]
+      },
+      "dcSubjectLangAware": {
+        "def": [
+          "http://iconclass.org/48C513",
+          "urn:rijksmuseum:people:RM0001.PEOPLE.3437"
+        ],
+        "nl": [
+          "Gogh, Vincent van"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Self-portrait"
+        ],
+        "nl": [
+          "Zelfportret"
+        ]
+      },
+      "dcTypeLangAware": {
+        "def": [
+          "http://data.europeana.eu/concept/47",
+          "http://vocab.getty.edu/aat/300177435"
+        ],
+        "en": [
+          "painting"
+        ],
+        "nl": [
+          "schilderij"
+        ]
+      },
+      "edmAgent": [
+        "urn:rijksmuseum:people:RM0001.PEOPLE.3437"
+      ],
+      "edmAgentLabel": [
+        {
+          "def": "Gogh, Vincent van"
+        },
+        {
+          "def": "Gogh, Vincent van"
+        }
+      ],
+      "edmAgentLabelLangAware": {
+        "en": [
+          "Gogh, Vincent van"
+        ],
+        "nl": [
+          "Gogh, Vincent van"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1813",
+        "http://data.europeana.eu/concept/47"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Karton"
+        },
+        {
+          "def": "Malerei"
+        },
+        {
+          "def": "Картон"
+        },
+        {
+          "def": "Живопись"
+        },
+        {
+          "def": "Pahvi"
+        },
+        {
+          "def": "Maalaustaide"
+        },
+        {
+          "def": "Papelão"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Картон"
+        },
+        {
+          "def": "Живопис"
+        },
+        {
+          "def": "Kartonas"
+        },
+        {
+          "def": "Tapyba"
+        },
+        {
+          "def": "Karton"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Kartons"
+        },
+        {
+          "def": "Glezniecība"
+        },
+        {
+          "def": "Carton"
+        },
+        {
+          "def": "Peinture"
+        },
+        {
+          "def": "Karton"
+        },
+        {
+          "def": "Festőművészet"
+        },
+        {
+          "def": "Lepenka"
+        },
+        {
+          "def": "Slikarstvo"
+        },
+        {
+          "def": "Cairtchlár"
+        },
+        {
+          "def": "Péintéireacht"
+        },
+        {
+          "def": "Cartó"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Kartong"
+        },
+        {
+          "def": "Målarkonst"
+        },
+        {
+          "def": "Χαρτόνι"
+        },
+        {
+          "def": "Ζωγραφική"
+        },
+        {
+          "def": "Cardboard"
+        },
+        {
+          "def": "Art of painting"
+        },
+        {
+          "def": "Cartone"
+        },
+        {
+          "def": "Pittura"
+        },
+        {
+          "def": "Cartón"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Papp"
+        },
+        {
+          "def": "Maalikunst"
+        },
+        {
+          "def": "Kartoi"
+        },
+        {
+          "def": "Margolaritza"
+        },
+        {
+          "def": "Lepenka"
+        },
+        {
+          "def": "Malířství"
+        },
+        {
+          "def": "Karton"
+        },
+        {
+          "def": "Malarstwo"
+        },
+        {
+          "def": "Carton"
+        },
+        {
+          "def": "Pictură"
+        },
+        {
+          "def": "Karton"
+        },
+        {
+          "def": "Malerkunst"
+        },
+        {
+          "def": "Karton"
+        },
+        {
+          "def": "Schilderkunst"
+        },
+        {
+          "def": "Maliarstvo"
+        },
+        {
+          "def": "Pittura"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Karton",
+          "Malerei"
+        ],
+        "ru": [
+          "Живопись",
+          "Картон"
+        ],
+        "fi": [
+          "Maalaustaide",
+          "Pahvi"
+        ],
+        "pt": [
+          "Papelão",
+          "Pintura"
+        ],
+        "bg": [
+          "Картон",
+          "Живопис"
+        ],
+        "lt": [
+          "Tapyba",
+          "Kartonas"
+        ],
+        "hr": [
+          "Karton",
+          "Slikarstvo"
+        ],
+        "lv": [
+          "Glezniecība",
+          "Kartons"
+        ],
+        "fr": [
+          "Peinture",
+          "Carton"
+        ],
+        "hu": [
+          "Karton",
+          "Festőművészet"
+        ],
+        "sk": [
+          "Maliarstvo"
+        ],
+        "sl": [
+          "Slikarstvo",
+          "Lepenka"
+        ],
+        "ga": [
+          "Péintéireacht",
+          "Cairtchlár"
+        ],
+        "ca": [
+          "Pintura",
+          "Cartó"
+        ],
+        "sv": [
+          "Kartong",
+          "Målarkonst"
+        ],
+        "el": [
+          "Ζωγραφική",
+          "Χαρτόνι"
+        ],
+        "mt": [
+          "Pittura"
+        ],
+        "en": [
+          "Cardboard",
+          "Art of painting"
+        ],
+        "it": [
+          "Cartone",
+          "Pittura"
+        ],
+        "es": [
+          "Pintura",
+          "Cartón"
+        ],
+        "et": [
+          "Papp",
+          "Maalikunst"
+        ],
+        "eu": [
+          "Kartoi",
+          "Margolaritza"
+        ],
+        "cs": [
+          "Malířství",
+          "Lepenka"
+        ],
+        "pl": [
+          "Karton",
+          "Malarstwo"
+        ],
+        "ro": [
+          "Pictură",
+          "Carton"
+        ],
+        "da": [
+          "Karton",
+          "Malerkunst"
+        ],
+        "nl": [
+          "Karton",
+          "Schilderkunst"
+        ]
+      },
+      "edmDatasetName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/10934/RM0001.COLLECT.9617"
+      ],
+      "edmIsShownBy": [
+        "https://lh3.googleusercontent.com/Ckjq-HkB2XhEsbuMsei0MR5fLTODfkcXY8qQTG-XLHVxE0jLO9DnSYaVE8n1kCrcm9AMKzoWB2w03LrY0v7eoj5hYw=s0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.rijksmuseum.nl%2Fassetimage2.jsp%3Fid%3DSK-A-3262&type=IMAGE"
+      ],
+      "edmTimespan": [
+        "http://semium.org/time/AD2xxx",
+        "#1887"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "2e millénaire après J.-C."
+        },
+        {
+          "def": "1887"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000"
+        ],
+        "zxx": [
+          "1887"
+        ],
+        "fr": [
+          "2e millénaire après J.-C."
+        ]
+      },
+      "europeanaCollectionName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/90402/SK_A_3262?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "id": "/90402/SK_A_3262",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/90402/SK_A_3262.json?wskey=api2demo",
+      "organizations": [
+        "http://data.europeana.eu/organization/1482250000000338795",
+        "http://data.europeana.eu/organization/1482250000000338795"
+      ],
+      "previewNoDistribute": false,
+      "provider": [
+        "Rijksmuseum"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 24.332165,
+      "timestamp": 1688573260489,
+      "timestamp_created": "2014-05-27T20:15:06.438Z",
+      "timestamp_created_epoch": 1401221706438,
+      "timestamp_update": "2018-03-17T14:37:45.539Z",
+      "timestamp_update_epoch": 1521297465539,
+      "title": [
+        "Self-portrait",
+        "Zelfportret"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1887"
+      ]
+    },
+    {
+      "completeness": 9,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Rijksmuseum"
+      ],
+      "dcDescription": [
+        "Lithografische versie van Van Goghs 'Aardappeleters': een boerengezin rond een tafel, verlicht door een olielamp, aardappels etend van een schaal."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "Lithografische versie van Van Goghs 'Aardappeleters': een boerengezin rond een tafel, verlicht door een olielamp, aardappels etend van een schaal."
+        ]
+      },
+      "dcLanguage": [
+        "nl"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "nl"
+        ]
+      },
+      "dcSubjectLangAware": {
+        "def": [
+          "http://iconclass.org/41C4",
+          "http://iconclass.org/46A14"
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "De aardappeleters"
+        ]
+      },
+      "dcTypeLangAware": {
+        "def": [
+          "http://vocab.getty.edu/aat/300041273",
+          "http://vocab.getty.edu/aat/300053271",
+          "http://data.europeana.eu/concept/2538",
+          "http://data.europeana.eu/concept/42"
+        ],
+        "en": [
+          "print"
+        ],
+        "nl": [
+          "prent",
+          "lithografie (techniek)"
+        ]
+      },
+      "dctermsSpatial": [
+        "Nuenen",
+        "urn:rijksmuseum:thesaurus:RM0001.THESAU.57966"
+      ],
+      "edmAgent": [
+        "urn:rijksmuseum:people:RM0001.PEOPLE.3437"
+      ],
+      "edmAgentLabel": [
+        {
+          "def": "Gogh, Vincent van"
+        },
+        {
+          "def": "Gogh, Vincent van"
+        }
+      ],
+      "edmAgentLabelLangAware": {
+        "en": [
+          "Gogh, Vincent van"
+        ],
+        "nl": [
+          "Gogh, Vincent van"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/42",
+        "http://data.europeana.eu/concept/2090",
+        "http://data.europeana.eu/concept/2538"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Lithografie"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Druckgrafik"
+        },
+        {
+          "def": "Litografia"
+        },
+        {
+          "def": "Paperi"
+        },
+        {
+          "def": "Grafiikka"
+        },
+        {
+          "def": "Литография"
+        },
+        {
+          "def": "Бумага"
+        },
+        {
+          "def": "Эстамп"
+        },
+        {
+          "def": "Litografia"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "Estampa"
+        },
+        {
+          "def": "Литография"
+        },
+        {
+          "def": "Хартия"
+        },
+        {
+          "def": "Печатна графика"
+        },
+        {
+          "def": "Litografija"
+        },
+        {
+          "def": "Popierius"
+        },
+        {
+          "def": "Estampas"
+        },
+        {
+          "def": "Litogrāfija"
+        },
+        {
+          "def": "Papīrs"
+        },
+        {
+          "def": "Estamps"
+        },
+        {
+          "def": "Litografija"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Lithographie"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Estampe"
+        },
+        {
+          "def": "Litográfia"
+        },
+        {
+          "def": "Papír"
+        },
+        {
+          "def": "Metszet"
+        },
+        {
+          "def": "Litografia"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Litografija"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Odtis"
+        },
+        {
+          "def": "Litografia"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Estampa"
+        },
+        {
+          "def": "Litografi"
+        },
+        {
+          "def": "Papper"
+        },
+        {
+          "def": "Tryck"
+        },
+        {
+          "def": "Λιθογραφία"
+        },
+        {
+          "def": "Χαρτί"
+        },
+        {
+          "def": "Εκτύπωση"
+        },
+        {
+          "def": "Lithography"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Print"
+        },
+        {
+          "def": "Litografia"
+        },
+        {
+          "def": "Carta"
+        },
+        {
+          "def": "Stampa"
+        },
+        {
+          "def": "Litografía"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "Estampa"
+        },
+        {
+          "def": "Litograafia"
+        },
+        {
+          "def": "Paber"
+        },
+        {
+          "def": "Trükipilt"
+        },
+        {
+          "def": "Litografia"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Litografie"
+        },
+        {
+          "def": "Papír"
+        },
+        {
+          "def": "Tisk"
+        },
+        {
+          "def": "Litografia"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Sztych"
+        },
+        {
+          "def": "Litografie"
+        },
+        {
+          "def": "Hârtie"
+        },
+        {
+          "def": "Stampă"
+        },
+        {
+          "def": "Litografi"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Tryk"
+        },
+        {
+          "def": "Lithografie"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Prent"
+        },
+        {
+          "def": "Páipéar"
+        },
+        {
+          "def": "Prionta"
+        },
+        {
+          "def": "Karta"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Lithografie",
+          "Druckgrafik",
+          "Papier"
+        ],
+        "fi": [
+          "Litografia",
+          "Paperi",
+          "Grafiikka"
+        ],
+        "ru": [
+          "Бумага",
+          "Эстамп",
+          "Литография"
+        ],
+        "pt": [
+          "Litografia",
+          "Papel",
+          "Estampa"
+        ],
+        "bg": [
+          "Хартия",
+          "Печатна графика",
+          "Литография"
+        ],
+        "lt": [
+          "Litografija",
+          "Popierius",
+          "Estampas"
+        ],
+        "lv": [
+          "Litogrāfija",
+          "Papīrs",
+          "Estamps"
+        ],
+        "hr": [
+          "Litografija",
+          "Papir"
+        ],
+        "fr": [
+          "Papier",
+          "Lithographie",
+          "Estampe"
+        ],
+        "hu": [
+          "Metszet",
+          "Papír",
+          "Litográfia"
+        ],
+        "sk": [
+          "Litografia",
+          "Papier"
+        ],
+        "sl": [
+          "Odtis",
+          "Litografija",
+          "Papir"
+        ],
+        "ga": [
+          "Páipéar",
+          "Prionta"
+        ],
+        "ca": [
+          "Litografia",
+          "Estampa",
+          "Paper"
+        ],
+        "sv": [
+          "Papper",
+          "Tryck",
+          "Litografi"
+        ],
+        "el": [
+          "Χαρτί",
+          "Λιθογραφία",
+          "Εκτύπωση"
+        ],
+        "mt": [
+          "Karta"
+        ],
+        "en": [
+          "Print",
+          "Lithography",
+          "Paper"
+        ],
+        "it": [
+          "Litografia",
+          "Carta",
+          "Stampa"
+        ],
+        "es": [
+          "Papel",
+          "Estampa",
+          "Litografía"
+        ],
+        "et": [
+          "Trükipilt",
+          "Litograafia",
+          "Paber"
+        ],
+        "eu": [
+          "Litografia",
+          "Paper"
+        ],
+        "cs": [
+          "Papír",
+          "Litografie",
+          "Tisk"
+        ],
+        "pl": [
+          "Litografia",
+          "Papier",
+          "Sztych"
+        ],
+        "ro": [
+          "Stampă",
+          "Litografie",
+          "Hârtie"
+        ],
+        "da": [
+          "Tryk",
+          "Litografi",
+          "Papir"
+        ],
+        "nl": [
+          "Lithografie",
+          "Prent",
+          "Papier"
+        ]
+      },
+      "edmDatasetName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/10934/RM0001.COLLECT.40048"
+      ],
+      "edmIsShownBy": [
+        "https://lh6.ggpht.com/GlyQgIZEno8P_XhZK1yTsMk9Po_unNgU1u1mESDluU372mItxNAiQ_VUUOzpMoTQz564buak-FJkUGDdQfFDxppftEA=s0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flh6.ggpht.com%2FGlyQgIZEno8P_XhZK1yTsMk9Po_unNgU1u1mESDluU372mItxNAiQ_VUUOzpMoTQz564buak-FJkUGDdQfFDxppftEA%3Ds0&type=IMAGE"
+      ],
+      "edmTimespan": [
+        "#1885-04-16"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1885-04-16"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1885-04-16"
+        ]
+      },
+      "europeanaCollectionName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/90402/RP_P_1912_609?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "id": "/90402/RP_P_1912_609",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/90402/RP_P_1912_609.json?wskey=api2demo",
+      "organizations": [
+        "http://data.europeana.eu/organization/1482250000000338795",
+        "http://data.europeana.eu/organization/1482250000004671105"
+      ],
+      "previewNoDistribute": false,
+      "provider": [
+        "Europeana 280"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.364182,
+      "timestamp": 1688571151288,
+      "timestamp_created": "2014-05-27T16:01:58.495Z",
+      "timestamp_created_epoch": 1401206518495,
+      "timestamp_update": "2018-03-17T13:41:16.167Z",
+      "timestamp_update_epoch": 1521294076167,
+      "title": [
+        "De aardappeleters"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "France"
+      ],
+      "dataProvider": [
+        "National Audiovisual Institute France"
+      ],
+      "dcContributor": [
+        "Olivier Barrot",
+        "Olivier Barrot",
+        "Olivier Barrot"
+      ],
+      "dcContributorLangAware": {
+        "def": [
+          "Olivier Barrot"
+        ],
+        "en": [
+          "Olivier Barrot"
+        ],
+        "fr": [
+          "Olivier Barrot"
+        ]
+      },
+      "dcLanguage": [
+        "fr"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "fr"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Van Gogh"
+        ],
+        "en": [
+          "Van Gogh"
+        ],
+        "fr": [
+          "Van Gogh"
+        ]
+      },
+      "dcTypeLangAware": {
+        "def": [
+          "Magazine"
+        ],
+        "en": [
+          "Magazine"
+        ]
+      },
+      "edmDatasetName": [
+        "04802_AA_ASSETS_INA"
+      ],
+      "edmIsShownAt": [
+        "http://www.ina.fr/art-et-culture/litterature/video/CPC99000435/van-gogh.fr.html#xtor=AL-3"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.ina.fr%2Fimages_v2%2F320x240%2FCPC99000435.jpeg&type=VIDEO"
+      ],
+      "edmTimespan": [
+        "#1999-01-27"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1999-01-27"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1999-01-27"
+        ]
+      },
+      "europeanaCollectionName": [
+        "04802_AA_ASSETS_INA"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/04802/5536E7A667DBBE5E732EB60F6EFB575E5A20CA8E?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+      "id": "/04802/5536E7A667DBBE5E732EB60F6EFB575E5A20CA8E",
+      "index": 0,
+      "language": [
+        "fr"
+      ],
+      "link": "https://api.europeana.eu/record/04802/5536E7A667DBBE5E732EB60F6EFB575E5A20CA8E.json?wskey=api2demo",
+      "organizations": [
+        "http://data.europeana.eu/organization/1482250000002678009",
+        "http://data.europeana.eu/organization/1482250000002678009"
+      ],
+      "previewNoDistribute": false,
+      "provider": [
+        "National Audiovisual Institute France"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 137.13634,
+      "timestamp": 1688641825865,
+      "timestamp_created": "1970-01-01T00:00:00.000Z",
+      "timestamp_created_epoch": 0,
+      "timestamp_update": "1970-01-01T00:00:00.000Z",
+      "timestamp_update_epoch": 0,
+      "title": [
+        "Van Gogh",
+        "Van Gogh",
+        "Van Gogh"
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ]
+    }
+  ]
+}
