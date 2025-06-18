@@ -1,0 +1,2253 @@
+{
+  "info": {
+    "total": 9861,
+    "parameters": {
+      "skip": 0,
+      "limit": 5,
+      "search": "painting",
+      "select": "accession_number,accession_number_sortable,cover_accession_number,department,gallery,classification_type,collection,department"
+    }
+  },
+  "data": [
+    {
+      "id": 140161,
+      "accession_number": "1964.160",
+      "share_license_status": "CC0",
+      "tombstone": "A Woman's Work, 1912. John Sloan (American, 1871–1951). Oil on canvas; framed: 97.2 x 82.2 x 6.4 cm (38 1/4 x 32 3/8 x 2 1/2 in.); unframed: 80.3 x 65.4 cm (31 5/8 x 25 3/4 in.). The Cleveland Museum of Art, Gift of Amelia Elizabeth White 1964.160",
+      "current_location": "208 American Gilded Age and Realism",
+      "title": "A Woman's Work",
+      "creation_date": "1912",
+      "creation_date_earliest": 1912,
+      "creation_date_latest": 1912,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "American Painting and Sculpture",
+      "collection": "American - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 97.2 x 82.2 x 6.4 cm (38 1/4 x 32 3/8 x 2 1/2 in.); Unframed: 80.3 x 65.4 cm (31 5/8 x 25 3/4 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 0.972,
+          "width": 0.822,
+          "depth": 0.064
+        },
+        "unframed": {
+          "height": 0.803,
+          "width": 0.654
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed lower right: \"John Sloan -\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 304723,
+            "title": "Year in Review (1964)",
+            "description": "<i>Year in Review (1964)</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 8, 1964-January 31, 1965).",
+            "opening_date": "1964-12-08T05:00:00"
+          },
+          {
+            "id": 310260,
+            "title": "American Cities: The Artist's View",
+            "description": "<i>American Cities: The Artist's View</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 17, 1989-January 7, 1990).",
+            "opening_date": "1989-10-17T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Group Exhibition</em>. MacDowell Club, New York, NY (17-29 April 1913); see Elzea, pp. 116 and 449.",
+            "opening_date": "1913-04-17T00:00:00"
+          },
+          {
+            "description": "<em>Exhibition of Paintings, Drawings and Etchings by John Sloan. </em>Kraushaar Galleries, New York, NY (19 March-7 April 1917); no. 11.",
+            "opening_date": "1917-03-19T00:00:00"
+          },
+          {
+            "description": "<em>Exhibition of Paintings by George Luks, Augustus Vincent Tack and John Sloan</em>. Wisconsin Art Institute, Milwaukee, WI (March 1918).",
+            "opening_date": "1918-03-01T00:00:00"
+          },
+          {
+            "description": "<em>Annual Exhibition of Paintings and Sculpture by Members of the Club</em>. Whitney Studio Club, New York, NY (20 March-20 April 1921).",
+            "opening_date": "1921-03-20T00:00:00"
+          },
+          {
+            "description": "<em>Sculpture, Painting, and Crafts by Greenwich Village Artists</em>. Greenwich House, New York, NY (24 April-2 May 1922); no. 50; see Elzea's publication.",
+            "opening_date": "1922-04-24T00:00:00"
+          },
+          {
+            "description": "<em>120th Annual Exhibition of the Pennsylvania Academy of the Fine Arts</em>. Pennsylvania Academy of the Fine Arts, Philadelphia, PA (8 February-29 March 1925); no. 236.",
+            "opening_date": "1925-02-08T00:00:00"
+          },
+          {
+            "description": "<em>Annual Exhibition of Recent American Paintings</em>. Rhode Island School of Design, Providence, RI (13 October-9 November 1925); no. 23.",
+            "opening_date": "1925-10-13T00:00:00"
+          },
+          {
+            "description": "<em>John Sloan: Paintings, Etchings, and Drawings.</em> Wanamaker Galleries, New York, NY (4 November-? December 1939); traveled to Wanamaker Galleries, Philadelphia, PA (8-29 January 1940); no. 41.",
+            "opening_date": "1940-01-08T00:00:00"
+          },
+          {
+            "description": "<em>Then and Now</em>. Park Avenue Gallery, New York, NY (7-19 October 1940); see Elzea's publication.",
+            "opening_date": "1940-10-07T00:00:00"
+          },
+          {
+            "description": "<em>John Sloan</em>. Martha White Memorial Gallery, Santa Fe, NM (15-29 August 1942); see Elzea's publication.",
+            "opening_date": "1942-08-15T00:00:00"
+          },
+          {
+            "description": "<em>30th Annual Exhibition: Painters and Sculptors of the Southwest</em>. Museum of New Mexico, Santa Fe, NM (1 August-15 September 1943), cat. no. 173.",
+            "opening_date": "1943-08-01T00:00:00"
+          },
+          {
+            "description": "<em>John Sloan: Paintings, Prints, Drawings</em>. Hood Museum of Art, Dartmouth College, Hanover, NH (2 October 1981-3 January 1982); traveled to Decordova and Dana Museum and Park, Lincoln, MA (23 January-7 March 1982); to Kalamazoo Institute of Arts, Kalamazoo, MI (18 March-2 May 1982); to Elvehjem Museum of Art, University of Wisconsin, Madison, WI (12 June-1 August 1982); to Dayton Art Institute, Dayton, OH (11 September-24 October 1982); to Memorial Art Gallery of the University of Rochester, Rochester, NY (6 November 1982-2 January 1983), cat. no. 15, pp. 17-20, 22, 52-53, illus. p. 53.",
+            "opening_date": "1982-01-23T00:00:00"
+          },
+          {
+            "description": "<em>American Cities: The Artist's View</em>. The Cleveland Museum of Art, Cleveland, OH (17 October 1989-7 January 1990).",
+            "opening_date": "1989-10-17T00:00:00"
+          },
+          {
+            "description": "<em>America in Art: Fifty Great Paintings Celebrating Fifty Years</em>. Santa Barbara Museum of Art, Santa Barbara, CA (6 June-11 August 1991) pp. 8-11, 98-99, illus. p. 99, no cat. no.",
+            "opening_date": "1991-06-06T00:00:00"
+          },
+          {
+            "description": "<em>American Impressionism and Realism: The Painting of Modern Life, 1885-1915</em>. The Metropolitan Museum of Art, New York, NY (2 May-24 July 1994); to Los Angeles County Museum of Art, Los Angeles, CA (6 March-14 May 1995); pp. 286-291, illus. fig. no. 294.",
+            "opening_date": "1994-05-02T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Sold c. 1939-1940 to Amelia White, Santa Fe.",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "According to John Sloan's diary, this painting was made in March 1912 at his apartment on East 22nd Street, New York.",
+      "description": "Trained as a journalist, the young Sloan explored social issues more vigorously than most of the painters of his time, portraying working-class urbanites engaged in ordinary activities. He observed this particular scene through a rear window of his Manhattan apartment. Perched on a narrow fire escape, a woman hangs fresh laundry to dry on clotheslines strung between tenements. As evidenced by the painting, the labors of American women at the turn of the 1900s were most often confined to the domestic realm.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60469154"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "John Butler Yeats, \"John Sloan's Exhibition,\" <em>The Seven Arts </em>2 (June 1917).",
+          "page_number": "Mentioned p. 259.",
+          "url": ""
+        },
+        {
+          "citation": "Sloan, John. <em>Gist of Art . </em>New York: 1944.",
+          "page_number": "Reproduced: p.229",
+          "url": null
+        },
+        {
+          "citation": "Sloan, John. <em>John Sloan</em>. New York, NY: American Artists Group, 1945.",
+          "page_number": "Reproduced: p.45 (unpaginated)",
+          "url": null
+        },
+        {
+          "citation": "Brooks, Van Wyck. <em>John Sloan: A Painter's Life</em>. London, United Kingdom: J.M. Dent &amp; Sons, Ltd., 1955.",
+          "page_number": "Reproduced: Image reproductions between pp.182-183",
+          "url": null
+        },
+        {
+          "citation": "\"Year in Review for 1964.\" <em>The Bulletin of The Cleveland Museum of Art (</em>December, 1964)",
+          "page_number": "Mentioned: p.264; Reproduced: p.251, n.87",
+          "url": null
+        },
+        {
+          "citation": "Sloan, John. <em>John Sloan's New York Scene from the Diaries, Notes, and Correspondence 1906-1913.</em> ed. Bruce St. John. New York, NY: Harper &amp; Row, 1965.",
+          "page_number": "Mentioned: pp.609",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art, “On Our Cover…,” January 7, 1965, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr1316"
+        },
+        {
+          "citation": "\"Reports of the Departments: Paintings.\" <em>The Bulletin of The Cleveland Museum of Ar</em>t (June, 1965).",
+          "page_number": "Mentioned: pp.143-144",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Ar</em>t Cleveland: Press of Western Reserve University, 1966.",
+          "page_number": "Reproduced: p.191",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n215"
+        },
+        {
+          "citation": "Wade, Richard C., Howard B. Wilder, and Louise C. Wade.<em> A History of the United State</em>s. Boston, MA: Houghton Mifflin Company, 1966.",
+          "page_number": "Mentioned and reproduced: p.484",
+          "url": null
+        },
+        {
+          "citation": "\"Recent Acquisitions in the American Field.\" <em>Art in America</em> 54 (May-June, 1966).",
+          "page_number": "Reproduced: p.46",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Art. </em>Cleveland, OH: Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p.191",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n215"
+        },
+        {
+          "citation": "Time-Life Editors. <em>American Painting 1900-1970. </em>New York, NY: Time-Life Books, 1970.",
+          "page_number": "Mentioned: p.13; Reproduced: p.12",
+          "url": null
+        },
+        {
+          "citation": "St. John, Bruce. <em>John Sloan.</em> New York, NY: Praeger Publishers, 1971.",
+          "page_number": "Reproduced: n.39",
+          "url": null
+        },
+        {
+          "citation": "Holcomb III, Grant. <em>A Catalogue Raisonné of the Paintings of John Sloan. </em>Ph.D. Dissertation, University of Delaware, 1972.",
+          "page_number": "Mentioned: pp.499-500; Reproduced: p.501",
+          "url": null
+        },
+        {
+          "citation": "Price, Vincent. <em>The Vincent Price Treasury of American Art</em>. Waukesha, WI: Country Beautiful Corporation, 1972.",
+          "page_number": "Reproduced: p.195",
+          "url": null
+        },
+        {
+          "citation": "Adams, Celeste, Rita Myers, and Adele Z. Silver. <em>An Introduction to American Art in the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 1972.",
+          "page_number": "Mentioned: p.16; Reproduced: p.17",
+          "url": null
+        },
+        {
+          "citation": "\"A Check List: American Paintings and Water Colors of the Eighteenth, Nineteenth, and Early Twentieth Centuries in The Cleveland Museum of Art.\" <em>The Bulletin of the Cleveland Museum of Art </em>(January, 1973).",
+          "page_number": "Mentioned: p.33",
+          "url": null
+        },
+        {
+          "citation": "Sharp Young, Mahonri. <em>American Realists: Homer to Hopper.</em> New York, NY: Watson-Guptill Publications, 1977.",
+          "page_number": "Mentioned: pp.161-162; Reproduced: p.168",
+          "url": null
+        },
+        {
+          "citation": "Lucie-Smith, Edward, and Celestine Dars. <em>Work and Struggle: The Painter As Witness 1870-1914</em>. New York, NY: Paddington Press; Distributed by Grosset &amp; Dunlap,1977.",
+          "page_number": "Reproduced: n.198",
+          "url": null
+        },
+        {
+          "citation": "Johnson, Mark M. \"American Landscapes... Scenes as Divergent as the Land Itself.\" <em>Arts and Activities</em> 82, no. 4 (December 1977).",
+          "page_number": "Mentioned: p.31; Reproduced: p.30",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Art. </em>Cleveland, OH: Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p.238",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n258"
+        },
+        {
+          "citation": "Hills, Patricia. \"John Sloan's Images of Working Class Women: A Case Study of the Roles and Interrelationships of Politics, Personality, and Patrons in the Development of Sloan's Art, 1905-16.\" <em>Prospect </em>5 (October 1980).",
+          "page_number": "Mentioned: p.175; Reproduced: p.214",
+          "url": "https://www.academia.edu/37112545/_John_Sloans_Images_of_Working_Class_Women_A_Case_Study_of_the_Roles_and_Inter_Relationships_of_Politics_Personality_and_Patrons_in_the_Development_of_Sloans_Art_1905_1916_"
+        },
+        {
+          "citation": "Unger, Irwin. <em>These United States, The Question of Our Past. </em>Vol.<em> 2. </em>Boston, MA: Little, Brown and Co., 1982.",
+          "page_number": "Mentioned and Reproduced: p.596",
+          "url": null
+        },
+        {
+          "citation": "Silver, Adele Z. <em>The Cleveland Museum of Art: Guide to the Galleries. </em>Cleveland, OH: Cleveland Museum of Art, 1981.",
+          "page_number": "Mentioned: p.84; Reproduced: p.85",
+          "url": null
+        },
+        {
+          "citation": "\"In the Background: The Ashcan School.\" <em>The Great Artists, Their Lives, Works, and Inspiration: Hopper. </em>London: Marshall Cavendish Ltd., 1986. Vol.4, Part 88.",
+          "page_number": "Reproduced: p.2812",
+          "url": null
+        },
+        {
+          "citation": "Elzea, Rowland. <em>John Sloan's Oil Paintings: A Catalogue Raisonné. </em>Newark, DE: University of Delaware Press, 1991.",
+          "page_number": "Mentioned and Reproduced: pp.115-116",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of The Cleveland Museum of Art. </em>Cleveland, OH: Cleveland Museum of Art, 1991.",
+          "page_number": "Reproduced: p.144",
+          "url": null
+        },
+        {
+          "citation": "Chong, Alan. <em>European &amp; American Painting in The Cleveland Museum of Art: A Summary Catalogue. </em>Cleveland, OH: Cleveland Museum of Art, 1993.",
+          "page_number": "Reproduced: p.224",
+          "url": null
+        },
+        {
+          "citation": "Garraty, John A. <em>Story of America. </em>1994.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Amon Carter Museum. \"American Impressionists, American Realists: In Search of the New\". Educational video (April 1994).",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Updike, John. \"Beyond the Picturesque.\"<em> The New York Review.</em> June 23,1994.",
+          "page_number": "Mentioned: pp.21, 23; Reproduced: p.21",
+          "url": null
+        },
+        {
+          "citation": "Loughery, John. <em>John Sloan: Painter and Rebel. </em>New York, NY: Henry Holt and Company, Inc., 1995.",
+          "page_number": "Mentioned: p.347",
+          "url": null
+        },
+        {
+          "citation": "<em>Elements of Literature, Grade 9. </em>New York, NY: Holt, Rinehart, and Winston, 2000.",
+          "page_number": "Mentioned and Reproduced: p.T203",
+          "url": null
+        },
+        {
+          "citation": "Perlman, Bennard B.<em> American Artists, Authors, and Collectors: The Walter Pach Letters 1906-1958</em>. Albany, NY: State University of New York Press, 2002.",
+          "page_number": "Reproduced: p.379",
+          "url": null
+        },
+        {
+          "citation": "Bender, Thomas. <em>The Unfinished City: New York and the Metropolitan Idea</em>. New York, NY: The New Press, 2002.",
+          "page_number": "Mentioned: pp.110-111; Reproduced: p.111",
+          "url": null
+        },
+        {
+          "citation": "Kramer, Karen and Alexandra Lerman.\"The Ballad of Greenwich Village.\"(New York, 2003?) independent documentary.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Foa, Emma. <em>Artists in Their Time: Edward Hopper</em>. New York, NY: Franklin Watts, 2003.",
+          "page_number": "Reproduced: p.7",
+          "url": null
+        },
+        {
+          "citation": "Curry, David Park. <em>James Mcneill Whistler: Uneasy Pieces</em>. Richmond, VA: Virginia Museum of Fine Arts in association with Quantuck Lane Press, 2004.",
+          "page_number": "Mentioned: pp.85-86; Reproduced: p.86, n.3.25",
+          "url": null
+        },
+        {
+          "citation": "Updike, John. <em>Still Looking: Essays on American Art.</em> New York, NY: Alfred A. Knopf, 2005.",
+          "page_number": "Mentioned: pp.110,118; Reproduced: p.111",
+          "url": null
+        },
+        {
+          "citation": "Coyle, Heather Campbell and Joyce K. Schiller. <em>John Sloan's New York</em>. Wilmington, DE: Delaware Art Museum, 2007.",
+          "page_number": "Mentioned: p.92; Reproduced: p.94",
+          "url": null
+        },
+        {
+          "citation": "Cole, Mark, \"A Paramount Picture\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 47 no. 01, January 2007",
+          "page_number": "Mentioned & reproduced: p. 9",
+          "url": "https://archive.org/details/CMAMM2007-01/page/8"
+        },
+        {
+          "citation": "Adams, Henry. <em>What's American about American Art? A Gallery Tour in the Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 2008.",
+          "page_number": "Mentioned: p.111; Reproduced: p.110",
+          "url": null
+        },
+        {
+          "citation": "Pohl, Frances K.<em> Framing America: A Social History of American Art</em> . New York, NY: Thames and Hudson, 2008.",
+          "page_number": "Mentioned: p.336; Reproduced: p.336, n.6.19",
+          "url": null
+        },
+        {
+          "citation": "Dearinger, David B. <em>George Deem: The Art of Art History</em>. Boston, MA: The Boston Athenaeum, 2012.",
+          "page_number": "Reproduced: p.33",
+          "url": null
+        },
+        {
+          "citation": "Litt, Steven. \"Close Up.\" <em>The</em> <em>Plain Dealer,</em> September 23, 2012.",
+          "page_number": "Mentioned and Reproduced: p.E6",
+          "url": null
+        },
+        {
+          "citation": "Roehrl, Boris. <em>World History of Realism in Visual Arts, 1830-1990 </em>Hildesheim, Germany: Georg Olms Verlag, 2013.",
+          "page_number": "Mentioned: p.131-132; Reproduced: p.132",
+          "url": null
+        },
+        {
+          "citation": "Roehrl, Boris. <em>Realismus in der bildenden Kunst. Europa und Nordamerika 1830 bis 2000</em>. Berlin, Germany: Gebr. Mann Verlag, 2013.",
+          "page_number": "Mentioned: pp.79-80; Reproduced: p.80",
+          "url": null
+        },
+        {
+          "citation": "Griffin, Patrick.<em> America's Revolution</em>. New York and Oxford: Oxford University Press, 2013",
+          "page_number": "Reproduced: p.44",
+          "url": null
+        },
+        {
+          "citation": "Henretta, James A., Rebecca Edwards, and Robert O. Self. <em>America's History</em>. 7th ed. Boston, MA and New York, NY: Bedford/St. Martin's, 2014.",
+          "page_number": "Mentioned and reproduced: p.583",
+          "url": null
+        },
+        {
+          "citation": "Belasco, Susan and Link Johnson, eds. <em>The Bedford Anthology of American Literature: Beginnings to the Present</em>. Shorter Second Edition. Boston, MA and New York, NY: Bedford/St. Martin's, 2014.",
+          "page_number": "Mentioned: p.1131; Reproduced: p.1130",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 55",
+          "url": ""
+        },
+        {
+          "citation": "Friese-Oertmann, Sabine. <em>Arbeiter in Malerei und Fotografie des 19. Jahrhunderts: Deutschland, Großbritannien, USA.</em> Berlin: Reimer, 2017.",
+          "page_number": "Reproduced: p 200, Abb.135",
+          "url": null
+        },
+        {
+          "citation": "Slayton, Robert A. <em>Beauty in the City: The Ashcan Schoo</em>l. Albany, NY: Excelsior Editions, State University of New York Press, 2017.",
+          "page_number": "Mentioned: pp.112-113; Reproduced: p.113, no.7.8",
+          "url": null
+        },
+        {
+          "citation": "Fagg, John.<em> Re-Envisioning the Everyday: American Genre Scenes, 1905-1945.</em> University Park, Pennsylvania: The Pennsylvania State University Press, 2023.",
+          "page_number": "Mentioned: p. 63-69, 76, 88; Reproduced: pl. 6",
+          "url": ""
+        },
+        {
+          "citation": "Custer, Lee Ann, \"The Clean, Open Air of John Sloan's Tenement Paintings,\" <em>American Art </em>37 (Summer 2023)",
+          "page_number": "Mentioned pp. 30-31, 40-46, 50; reproduced p. 40.",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1964.160",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_web.jpg",
+          "width": "730",
+          "height": "900",
+          "filesize": "",
+          "filename": "1964.160_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_print.jpg",
+          "width": "2757",
+          "height": "3400",
+          "filesize": "",
+          "filename": "1964.160_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_full.tif",
+          "width": "5462",
+          "height": "6736",
+          "filesize": "",
+          "filename": "1964.160_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2007-02-07T13:44:52",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.160/1964.160_alt0_web.jpg",
+            "width": "724",
+            "height": "893",
+            "filesize": "105508"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.160/1964.160_alt0_print.jpg",
+            "width": "2758",
+            "height": "3400",
+            "filesize": "5774826"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1964.160/1964.160_alt0_full.tif",
+            "width": "4462",
+            "height": "5500",
+            "filesize": "73655260"
+          }
+        }
+      ],
+      "creditline": "Gift of Amelia Elizabeth White",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "The Cleveland Foundation Gallery",
+      "athena_id": 140161,
+      "creators": [
+        {
+          "id": 3285,
+          "description": "John Sloan (American, 1871–1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1871",
+          "death_year": "1951"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1964-10-30T00:00:00",
+      "sortable_date": 1912,
+      "date_text": "1912",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2025-04-30 09:00:46.768000"
+    },
+    {
+      "id": 110180,
+      "accession_number": "1928.8",
+      "share_license_status": "CC0",
+      "tombstone": "The Race Track (Death on a Pale Horse), c. 1896–1908. Albert Pinkham Ryder (American, 1847–1917). Oil on canvas; framed: 84.5 x 102 x 6.5 cm (33 1/4 x 40 3/16 x 2 9/16 in.); unframed: 70.5 x 90 cm (27 3/4 x 35 7/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund 1928.8",
+      "current_location": "207 American Realism",
+      "title": "The Race Track (Death on a Pale Horse)",
+      "creation_date": "c. 1896–1908",
+      "creation_date_earliest": 1896,
+      "creation_date_latest": 1908,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "American Painting and Sculpture",
+      "collection": "American - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 84.5 x 102 x 6.5 cm (33 1/4 x 40 3/16 x 2 9/16 in.); Unframed: 70.5 x 90 cm (27 3/4 x 35 7/16 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 0.845,
+          "width": 1.02,
+          "depth": 0.065
+        },
+        "unframed": {
+          "height": 0.705,
+          "width": 0.9
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed lower left: \"A. P. Ryder\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 312517,
+            "title": "The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition",
+            "description": "<i>The Twentieth Anniversary Exhibition: The Official Art Exhibit of the Great Lakes Exposition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 26-October 4, 1936).",
+            "opening_date": "1936-06-26T04:00:00"
+          },
+          {
+            "id": 312462,
+            "title": "Exhibition of American Painting from 1860 Until Today",
+            "description": "<i>Exhibition of American Painting from 1860 Until Today</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-October 4, 1937).",
+            "opening_date": "1937-06-23T04:00:00"
+          },
+          {
+            "id": 312428,
+            "title": "Expressionism and Related Movements",
+            "description": "<i>Expressionism and Related Movements</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 26-February 28, 1939).",
+            "opening_date": "1939-01-26T05:00:00"
+          },
+          {
+            "id": 312341,
+            "title": "The Silver Jubilee Exhibition",
+            "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+            "opening_date": "1941-06-23T04:00:00"
+          },
+          {
+            "id": 311898,
+            "title": "35th Anniversary Exhibition",
+            "description": "<i>35th Anniversary Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 20-September 30, 1951).",
+            "opening_date": "1951-06-20T04:00:00"
+          },
+          {
+            "id": 314043,
+            "title": "Art of the United States: 1670-1966",
+            "description": "<i>Art of the United States: 1670-1966</i>. Whitney Museum of American Art, New York, NY (organizer) (September 28-November 27, 1966).",
+            "opening_date": "1966-09-28T04:00:00"
+          },
+          {
+            "id": 302330,
+            "title": "Heritage and Horizon: American Painting 1776 - 1976",
+            "description": "<i>Heritage and Horizon: American Painting 1776 - 1976</i>. Buffalo AKG Art Museum, Buffalo, NY (organizer) (March 7-April 11, 1976); The Detroit Institute of Arts, Detroit, MI (May 2-June 13, 1976); The Toledo Museum of Art, Toledo, OH (July 4-August 15, 1976); The Cleveland Museum of Art, Cleveland, OH (September 8-October 10, 1976).",
+            "opening_date": "1976-03-07T05:00:00"
+          },
+          {
+            "id": 443572,
+            "title": "Kaleidoscope of American Painting, Eighteenth and Nineteenth Centuries",
+            "description": "<i>Kaleidoscope of American Painting, Eighteenth and Nineteenth Centuries</i>. William Rockhill Nelson Gallery, Kansas City, MO (organizer) (December 1, 1977-January 22, 1978).",
+            "opening_date": "1977-12-01T05:00:00"
+          },
+          {
+            "id": 188842,
+            "title": "Conserving the Past for the Future",
+            "description": "<i>Conserving the Past for the Future</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 4-May 6, 2001).",
+            "opening_date": "2001-03-04T00:00:00"
+          },
+          {
+            "id": 184052,
+            "title": "Cleveland Collects American Art of the Gilded Age",
+            "description": "<i>Cleveland Collects American Art of the Gilded Age</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 23-May 18, 2003).",
+            "opening_date": "2003-02-23T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "New York, Metropolitan Museum of Art, Loan Exhibition of the Works of Albert P. Ryder (11 March - 14 April 1918), cat. no. 48, pl. 48.",
+            "opening_date": "1918-03-11T00:00:00"
+          },
+          {
+            "description": "New York, The Metropolitan Museum of Art (1918–1924).",
+            "opening_date": "1918-01-01T00:00:00"
+          },
+          {
+            "description": "New York, Anderson Galleries, American Art from the Collections of Members of the Associated Dealers in American Painting (8 - 26 February 1927).",
+            "opening_date": "1927-02-08T00:00:00"
+          },
+          {
+            "description": "Cleveland, Ohio, Cleveland Museum of Art, Memorial Exhibition of Paintings by Thomas Eakins, Albert P. Ryder, and J. Alden Weir (1928).",
+            "opening_date": "1928-01-01T00:00:00"
+          },
+          {
+            "description": "New York, The Museum of Modern Art, Sixth Loan Exhibition: Winslow Homer, Albert P. Ryder, Thomas Eakins (May 1930), no. 61, p. 61.",
+            "opening_date": "1930-05-01T00:00:00"
+          },
+          {
+            "description": "New York, The Metropolitan Museum of Art, The Taste of Today in Masterpieces of Painting Before 1900 (10 July - 2 October 1932).",
+            "opening_date": "1932-07-10T00:00:00"
+          },
+          {
+            "description": "Chicago, Art Institute of Chicago, The Century of Progress Exhibition (1 June - 1 November 1933), no. 475.",
+            "opening_date": "1933-06-01T00:00:00"
+          },
+          {
+            "description": "Paris, Musée du Jeu de Paume, Trois Siècles d'Art aux États-Unis (May - July 1938), no. 144.",
+            "opening_date": "1938-05-01T00:00:00"
+          },
+          {
+            "description": "New York, The Museum of Modern Art, Art in Our Time: The Tenth Anniversary Exhibition of The Museum of Modern Art (April - October 1939), cat. no. 26, pl. 26.",
+            "opening_date": "1939-04-01T00:00:00"
+          },
+          {
+            "description": "New York, M. Knoedler &amp; Co., Two American Romantics of the Nineteenth Century: Robert Loftin Newman 1827-1912, Albert Pinkham Ryder 1847 - 1917 (13 November - 2 December 1939), no. 9.",
+            "opening_date": "1939-11-13T00:00:00"
+          },
+          {
+            "description": "Hartford, Connecticut, Wadsworth Atheneum, Night Scenes (15 February - 7 March 1940), no. 56.",
+            "opening_date": "1940-02-15T00:00:00"
+          },
+          {
+            "description": "Pittsburgh, Carnegie Institute, Survey of American Painting (24 October - 15 December 1940), cat. no. 205 (not ill.)",
+            "opening_date": "1940-10-24T00:00:00"
+          },
+          {
+            "description": "London, The Tate Gallery, American Painting: from the Eighteenth Century to the Present Day (Summer 1946), cat. no. 178.",
+            "opening_date": "1946-01-01T00:00:00"
+          },
+          {
+            "description": "New York, Whitney Museum of American Art, Ryder Centenary Exhibition (18 October - 30 November 1947), no. 31, ill. p. 34.",
+            "opening_date": "1947-10-18T00:00:00"
+          },
+          {
+            "description": "Philadelphia, Philadelphia Museum of Art, Diamond Jubilee Exhibition: Masterpieces of American Painting (4 November 1950 - 11 February 51); no. 62.",
+            "opening_date": "1950-11-04T00:00:00"
+          },
+          {
+            "description": "New York, National Academy of Design, The American Tradition Exhibition of Paintings (3 December - 16 December1951), no. 120, ill. p. 44.",
+            "opening_date": "1951-01-01T00:00:00"
+          },
+          {
+            "description": "Buffalo, New York, Albright Art Gallery, Expressionism in American Painting (10 May - 29 June 1952), no. 4, ill. p. 13.",
+            "opening_date": "1952-05-10T00:00:00"
+          },
+          {
+            "description": "Frankfurt, Städelsches Kunstinstitut, Hundert Jahre Amerikanische Malerei 1800-1900, An Exhibition Circulated by the American Federation of Arts (14 March - 3 May 1953); traveled to München, Bayerische Staatsgemaldesammlungen (15 May - 28 June 1953); traveled to Hamburg, Kunstalle (18 July - 30 August 1953), cat. no. 78, p. 34, ill. p. 21.",
+            "opening_date": "1953-03-14T00:00:00"
+          },
+          {
+            "description": "Rome, Galleria Nazionale d'Arte Moderna, Mostra di Pittura Americana del XIX Secolo (19 January - 7 February 1954), cat. no. 53, pl. 19.",
+            "opening_date": "1954-01-19T00:00:00"
+          },
+          {
+            "description": "New York, Whitney Museum of American Art, American Painting in the Nineteenth Century (1954), cat. no. 53.",
+            "opening_date": "1954-01-01T00:00:00"
+          },
+          {
+            "description": "Washington, D. C., The Corcoran Gallery, The American Muse (1959), cat. no. 63.",
+            "opening_date": "1959-01-01T00:00:00"
+          },
+          {
+            "description": "Buffalo, New York, Albright-Knox Art Gallery, Heritage and Horizon: American Painting 1776 - 1976 (6 March - 11 April 1976), cat. no. 26; traveled to Detroit, Detroit Institute of Arts (5 May - 13 June 1976); traveled to Toledo, Toledo Museum of Art (4 July - 15 August 1976); traveled to Cleveland, Cleveland Museum of Art (8 September - 10 October 1976).",
+            "opening_date": "1976-03-06T00:00:00"
+          },
+          {
+            "description": "Kansas City, Missouri, William Rockhill Nelson Gallery of Art, Kaleidoscope of American Painting, Eighteenth and Nineteenth Centuries (2 December 1977 - 22 January 1978), no. 37, ill. p. 34.",
+            "opening_date": "1977-12-02T00:00:00"
+          },
+          {
+            "description": "Washington, D.C., National Museum of American Art, The Art of Albert Pinkham Ryder (6 April - 29 July 1990); traveled to Brooklyn, Brooklyn Museum of Art (14 September 1990 - 8 January 1991); exhibition catalog published for the NMAA by the Smithsonian Institution Press, Washington, 1989), p.l 98, fig 86, cat. no. 51, p. 275.",
+            "opening_date": "1990-04-06T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Albert Pinkham Ryder [1847-1914], New York, NY, sold to Louis Lehmeier",
+          "citations": [],
+          "footnotes": null,
+          "date": "c. 1896–1906",
+          "sortorder": 1
+        },
+        {
+          "description": "Louis Lehmeier, returned to the artist",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->1It is unclear why Lehmeier, an acquaintance of Ryder, returned the painting to the artist.</div>"
+          ],
+          "date": "1906–by 1913",
+          "sortorder": 2
+        },
+        {
+          "description": "Albert Pinkham Ryder, probably sold to Albert T. Sanden",
+          "citations": [],
+          "footnotes": null,
+          "date": "After 1906–by 1913",
+          "sortorder": 3
+        },
+        {
+          "description": "Albert T. Sanden, New York, NY",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->1Sanden, one of Ryder's closest friends, owned 11 paintings by the artist, most of which he purchased directly from the artist.&nbsp; Since Lehmeier returned this painting to Ryder, it is probable that this painting was one of them.</div>"
+          ],
+          "date": "By 1913–1924",
+          "sortorder": 4
+        },
+        {
+          "description": "(Ferargil Galleries, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->1Thomas H. Russell of Ferargil Galleries wrote to Margaret Evans of the Butler Institute of American Art that they had just acquired a group of Ryder paintings, including \"The Race Track,\" known as the \"Sanden pictures.\"</div>"
+          ],
+          "date": "1924",
+          "sortorder": 5
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, Ohio",
+          "citations": [],
+          "footnotes": null,
+          "date": "1928–",
+          "sortorder": 6
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1931.27"
+      ],
+      "did_you_know": "Counterclockwise horse racing in the United States was not standardized until the 1920s.",
+      "description": "Ryder’s subject was inspired by a horse race that took place in New York during 1888. One of the artist’s friends wagered $500 on the race and then died by suicide after the horse lost. Medieval symbolism infuses the composition: death appears as a skeleton on horseback holding a scythe with which he cuts down the living, while a snake—a sign of temptation and evil—slithers in the foreground. An intense man, Ryder worked on the painting for several years and was deeply reluctant to part with it.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60513294"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1928.8-the-race-track-death"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "<em>The Art Digest</em> (Feb. 1, 1928):2.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "<em>The Art Digest</em> (Feb. 1, 1928): 2.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Zachary Ross, “Linked by Nervousness: Albert Pinkham Ryder and Dr. Albert T. Sanden,” <em>American Art</em> 17.2 (Summer 2003): 86-96.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Sophie G. Lehmaier, letter, June 26, 1947, Goodrich, Lloyd and Edith Havens Papers Relating to Albert Pinkham Ryder, #F32, Special Collections, University of Delaware Library.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Davis, John and Michael Leja, <em>Art of the United States 1750-2000: Primary Sources.</em> (Chicago: University of Chicago Press, 2020).",
+          "page_number": "Mentioned and reproduced, p. 219.",
+          "url": ""
+        },
+        {
+          "citation": "",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Blakelock, Ralph Albert, Sheldon Memorial Art Gallery, New Jersey State Museum, and Nebraska Art Association. Ralph Albert Blakelock, 1847-1919 : [Exhibition] January 14-February 9, 1975, Sheldon Memorial Art Gallery, University of Nebraska, Lincoln, Nebraska [and] May 4-June 7, 1975, New Jersey State Museum, Trenton, New Jersey. [Lincoln]: [Nebraska Art Association], 1974.",
+          "page_number": "Mentioned p. 13.",
+          "url": ""
+        },
+        {
+          "citation": "Vincent, Glyn, and Ralph Albert Blakelock. The Unknown Night : The Madness and Genius of R.A. Blakelock, an American Painter. 1st ed. New York: Grove Press, 2003.",
+          "page_number": "Mentioned p. 157.",
+          "url": ""
+        },
+        {
+          "citation": "Gibran, Kahlil, Suheil B. Bushrui, Tania Sammons, and Telfair Museum of Art. <em>The Art of Kahlil Gibran at Telfair Museums.</em> Savannah, Georgia: Telfair Museum of Art, 2010.",
+          "page_number": "Mentioned p. 14; reproduced p. 15.",
+          "url": ""
+        },
+        {
+          "citation": "W. M. M. “‘The Race Track,’ or ‘Death on a Pale Horse’ by Albert Pinkham Ryder.” <em>The Bulletin of the Cleveland Museum of Art</em> 15, no. 3 (March 1928): 65–71.",
+          "page_number": "Mentioned: P. 65-71; Reproduced: P. 67",
+          "url": "http://www.jstor.org/stable/25137113"
+        },
+        {
+          "citation": "Burroughs, Alan. <em>Limners and Likenesses; Three Centuries of American Painting.</em> Cambridge, Mass: Harvard University Press, 1936.",
+          "page_number": "Mentioned: P. 155-156",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Catalogue of an Exhibition of American Painting from 1860 until Today at the Cleveland Museum of Art.</em> [Cleveland]: [Printed by the Artcraft Printing Co.], 1937.",
+          "page_number": "Mentioned: p. 37-38, no. 164; Reproduced: pl. V",
+          "url": ""
+        },
+        {
+          "citation": "Milliken, William M. “American Painting from 1860 until Today.” <em>The Bulletin of the Cleveland Museum of Art</em> 24, no. 6 (June 1937): 96–98.",
+          "page_number": "Mentioned: P. 97",
+          "url": "http://www.jstor.org/stable/25137854"
+        },
+        {
+          "citation": "Kent, Rockwell, ed. <em>World-Famous Paintings.</em> New York: Wise &amp; Co., Inc, 1939.",
+          "page_number": "Reproduced: pl. 96",
+          "url": null
+        },
+        {
+          "citation": "Francis, Henry. \"Loans to Important Exhibitions.\" <em>The Bulletin of the Cleveland Museum of Art </em>26, no. 7 (July 1939): 123",
+          "page_number": "Mentioned: p. 123",
+          "url": "https://www.jstor.org/stable/25138029"
+        },
+        {
+          "citation": "Milliken, William. \"Silver Jubilee Exhibition.\" <em>The Bulletin of the Cleveland Museum of Art </em>28, no.6 (June 1941): 88-108",
+          "page_number": "Mentioned: p. 91",
+          "url": "https://www.jstor.org/stable/25140932"
+        },
+        {
+          "citation": "<em>Paintings in the Cleveland Museum of Art.</em> [Cleveland]: The Cleveland Museum of Art, 1945.",
+          "page_number": "Reproduced: p. 15",
+          "url": "https://archive.org/details/CMAPaintings1945/page/n23"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 542",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n100"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 188",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n212"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 188",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n212"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 233",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n253"
+        },
+        {
+          "citation": "Kitaj, R. B., and Timothy Hyman. \"A Return to London\" IN <em>Kitaj Paintings, Drawings, Pastels.</em> John Ashebury, Joe Shannon, Jane Livingston, 41. New York, N.Y.: Thames and Hudson, 1983.",
+          "page_number": "Mentioned: p. 41",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Interpretations: Sixty-Five Works from the Cleveland Museum of Art</em>. Cleveland, Ohio: Cleveland Museum of Art, 1991.",
+          "page_number": "Mentioned and Reproduced: no. 37",
+          "url": ""
+        },
+        {
+          "citation": "Gardner, Helen, Richard G. Tansey and Fred S. Kleiner.<em> Gardner's Art Through the Ages</em>. Fort Worth: Harcourt Brace College Publishers, 1996.",
+          "page_number": "Reproduced: p. 1009, fig. 26-87",
+          "url": null
+        },
+        {
+          "citation": "Dijkstra, Bram. <em>American Expressionism: Art and Social Change, 1920-1950. </em>New York: H.N. Abrams, in association with the Columbus Museum of Art, 2003.",
+          "page_number": "Mentioned and Reproduced: P. 67-68, fig. 18",
+          "url": ""
+        },
+        {
+          "citation": "Novak, Barbara. <em>Voyages of the Self: Pairs, Parallels, and Patterns in American Art and Literature</em>. Oxford: Oxford University Press, 2007.",
+          "page_number": "Mentioned and reproduced: P. 114-115, fig. 6.4",
+          "url": ""
+        },
+        {
+          "citation": "Novak, Barbara. <em>American Painting of the Nineteenth Century: Realism, Idealism, and the American Experience</em>. Oxford; New York: Oxford University Press, 2007.",
+          "page_number": "Mentioned and Reproduced: P. 176-177, fig. 12.1",
+          "url": ""
+        },
+        {
+          "citation": "Adams, Henry. <em>What's American About American Art?: A Gallery Tour in the Cleveland Museum of Art. </em>Cleveland: Cleveland Museum of Art, 2008.",
+          "page_number": "Mentioned and reproduced: P. 10, fig. 4, 94-95",
+          "url": ""
+        },
+        {
+          "citation": "Wilson, Kristina. <em>The Modern Eye: Stieglitz, MoMA, and the Art of the Exhibition, 1925-1934</em>. New Haven: Yale University Press, 2009.",
+          "page_number": "Mentioned and Reproduced: P. 123",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art, David Franklin, and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2012.",
+          "page_number": "Mentioned and reproduced: P. 282-283",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 53",
+          "url": ""
+        },
+        {
+          "citation": "Kim, Miri. \"\"Right Matter in the Right Place\": The Paintings of Albert Pinkham Ryder.\" <em>Center 35: Record of Activities and Research Reports </em>(June 2014-May 2015): 112-115.",
+          "page_number": "Mentioned: p. 114; reproduced: p. 112",
+          "url": null
+        },
+        {
+          "citation": "Moore, John L., Esther Jun, Clodagh Keogh, William H. Robinson, Danni Shen, Enid Shomer, and Reto Thüring. Demise: Rina Banerjee, Esperanza Cortés, Jae Rhim Lee, Brian Maguire, Paolo Pelosini, Levent Tuncer. 2018, 4.",
+          "page_number": "Mentioned and reproduced: pp. 4-7.",
+          "url": ""
+        },
+        {
+          "citation": "Arendsee, M., and M. Steinman-Arendsee. \"Take the CAN disability aesthetics tour, at the Cleveland Museum of art.\" <em>CAN Journal</em> (Winter 2019/20): 76-87.",
+          "page_number": "Reproduced & mentioned: p. 80",
+          "url": null
+        },
+        {
+          "citation": "McCree, J. Woodrow. Washington Irving's Critique of American Culture: Sketching a Vision of World Citizenship. 2021.",
+          "page_number": "Mentioned and reproduced: p. 133, fig. 5.1",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art, and David Franklin. <em>The Cleveland Museum of Art.</em> London: Scala Arts &amp; Heritage Publishers Ltd, 2012.",
+          "page_number": "Mentioned and Reproduced: P. 64-65",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1928.8",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.8/1928.8_web.jpg",
+          "width": "900",
+          "height": "711",
+          "filesize": "190928",
+          "filename": "1928.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.8/1928.8_print.jpg",
+          "width": "3400",
+          "height": "2685",
+          "filesize": "3014421",
+          "filename": "1928.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.8/1928.8_full.tif",
+          "width": "14577",
+          "height": "11511",
+          "filesize": "503415724",
+          "filename": "1928.8_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "date_created": "2004-08-23T19:15:20",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt0_web.jpg",
+            "width": "1136",
+            "height": "893",
+            "filesize": "799109"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt0_print.jpg",
+            "width": "3400",
+            "height": "2673",
+            "filesize": "7530476"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt0_full.tif",
+            "width": "7242",
+            "height": "5694",
+            "filesize": "123742276"
+          }
+        },
+        {
+          "date_created": "2015-05-11T12:28:52",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt1_web.jpg",
+            "width": "900",
+            "height": "743",
+            "filesize": "202756"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt1_print.jpg",
+            "width": "3400",
+            "height": "2807",
+            "filesize": "2426444"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt1_full.tif",
+            "width": "7179",
+            "height": "5926",
+            "filesize": "127658884"
+          }
+        },
+        {
+          "date_created": "2008-08-13T14:38:31",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt2_web.jpg",
+            "width": "1074",
+            "height": "893",
+            "filesize": "820469"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt2_print.jpg",
+            "width": "3400",
+            "height": "2826",
+            "filesize": "8179526"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt2_full.tif",
+            "width": "3829",
+            "height": "3183",
+            "filesize": "36605784"
+          }
+        },
+        {
+          "date_created": "2015-05-11T12:47:13",
+          "annotation": "",
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt3_web.jpg",
+            "width": "900",
+            "height": "781",
+            "filesize": "201007"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt3_print.jpg",
+            "width": "3400",
+            "height": "2952",
+            "filesize": "2685028"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/alternate/1928.8/1928.8_alt3_full.tif",
+            "width": "6259",
+            "height": "5435",
+            "filesize": "102082984"
+          }
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "The Payne Fund Gallery",
+      "athena_id": 110180,
+      "creators": [
+        {
+          "id": 3267,
+          "description": "Albert Pinkham Ryder (American, 1847–1917)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1847",
+          "death_year": "1917"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1928-01-06T00:00:00",
+      "sortable_date": 1896,
+      "date_text": "c. 1896–1908",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": true,
+      "updated_at": "2025-02-08 23:52:09.787000"
+    },
+    {
+      "id": 135238,
+      "accession_number": "1958.25",
+      "share_license_status": "CC0",
+      "tombstone": "Paul Lafond and Alphonse Cherfils Examining a Painting, c. 1878–80. Edgar Degas (French, 1834–1917). Oil on wood panel; framed: 42.5 x 50 x 6 cm (16 3/4 x 19 11/16 x 2 3/8 in.); unframed: 27 x 34 cm (10 5/8 x 13 3/8 in.). The Cleveland Museum of Art, Bequest of Leonard C. Hanna Jr. 1958.25",
+      "current_location": "222 Impressionism & Post-Impressionism",
+      "title": "Paul Lafond and Alphonse Cherfils Examining a Painting",
+      "creation_date": "c. 1878–80",
+      "creation_date_earliest": 1873,
+      "creation_date_latest": 1885,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "France, 19th century"
+      ],
+      "technique": "oil on wood panel",
+      "support_materials": [],
+      "department": "Modern European Painting and Sculpture",
+      "collection": "Mod Euro - Painting 1800-1960",
+      "type": "Painting",
+      "measurements": "Framed: 42.5 x 50 x 6 cm (16 3/4 x 19 11/16 x 2 3/8 in.); Unframed: 27 x 34 cm (10 5/8 x 13 3/8 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 0.425,
+          "width": 0.5,
+          "depth": 0.06
+        },
+        "unframed": {
+          "height": 0.27,
+          "width": 0.34
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Signed in upper left: Degas / a [sic] ses chers amis\r\n\r\n",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 338947,
+            "title": "The Private Degas",
+            "description": "<i>The Private Degas</i>. Whitworth Art Gallery, Manchester, United Kingdom of Great Britain and Northern Ireland (January 20-February 28, 1987); Fitzwilliam Museum, Cambridge CB2 1RB (March 17-May 3, 1987).",
+            "opening_date": "1987-01-20T05:00:00"
+          },
+          {
+            "id": 216847,
+            "title": "Faces of Impressionism: Portraits from American Collections",
+            "description": "<i>Faces of Impressionism: Portraits from American Collections</i>. The Cleveland Museum of Art, Cleveland, OH (May 28-July 30, 2000).",
+            "opening_date": "1999-10-10T00:00:00"
+          },
+          {
+            "id": 224301,
+            "title": "Edgar Degas and the Italians in Paris",
+            "description": "<i>Edgar Degas and the Italians in Paris</i>. Palazzo dei Diamanti, Ferrara (Galleria d'Arte Moderna et Contemporanea) (September 14-November 16, 2003); Royal Scottish Academy, Edinburgh, Scotland (December 12, 2003-February 29, 2004).",
+            "opening_date": "2003-09-14T00:00:00"
+          },
+          {
+            "id": 282768,
+            "title": "Degas and Rodin - Giants of Modernism",
+            "description": "<i>Degas and Rodin - Giants of Modernism</i>. Von der Heydt-Museum, Wuppertal, Germany (organizer) (October 25, 2016-February 26, 2017).",
+            "opening_date": "2016-10-25T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Exposition Degas</em>. Galerie Georges Petit, Paris, France (1924).",
+            "opening_date": "1924-01-01T00:00:00"
+          },
+          {
+            "description": "<em>Degas-Portraitiste Sculpteur</em>. Musée de l'Orangerie, Paris, France (1931).",
+            "opening_date": "1931-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Alphonse Cherfils, Pau, France, by descent to his son, Christian Cherfils",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "Christian Cherfils, Pau, France",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 2
+        },
+        {
+          "description": "Marcel Guérin [1873-1948], Paris, France",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "(Wildenstein & Co., New York, NY, January 10, 1950, sold to Leonard C. Hanna, Jr.)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1950",
+          "sortorder": 4
+        },
+        {
+          "description": "Leonard C. Hannah [1889-1957], Cleveland, OH, bequeathed to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1950-1958",
+          "sortorder": 5
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1958-",
+          "sortorder": 6
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The gentlemen in this painting had close relationships with many Parisian artists and would go directly to their studios to purchase works that they wanted to exhibit or sell.",
+      "description": "The upper left corner of this painting bears a dedication by Degas \"to his dear friends.\" The double portrait depicts Paul Lafond (left), future curator of the art museum at Pau, in southwestern France, and Alphonse Cherfils (right), an art collector and defender of the Impressionists. Through the influence of these friends, Degas's works were selected for the annual exhibitions of the Société des Amis des Arts (Society of Friends of the Arts), and his painting, A Cotton Office (1873), was the first by the artist to be purchased by a museum. Since the painting held by the two men is probably by Degas, this intimate image commemorates both personal and business relationships.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60517762"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1958.25-paul-lafond-and-alph"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Lafond, Paul. <em>Degas</em>. Paris, FR: H. Floury, 1918.",
+          "page_number": "Reproduced: opp. title cover, vol. 2",
+          "url": null
+        },
+        {
+          "citation": "Lemoisne, Paul-André. <em>Degas et son œuvre.</em> Paris. FR: P. Brame et C.M. de Hauke, aux Arts et métiers graphiques, 1947.",
+          "page_number": "Reproduced: no. 647; vol 2",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>In Memoriam: Leonard C. Hanna, Jr</em>. Cleveland: Cleveland Museum of Art, 1958.",
+          "page_number": "Reproduced: no. 11",
+          "url": null
+        },
+        {
+          "citation": "Francis, Henry S. \"Report for the Year 1958: Painting Department.\" <em>The Bulletin of the Cleveland Museum of Art XXXXVI</em>, no. 6 (June, 1959): 111-122.",
+          "page_number": "Mentioned: p. 22",
+          "url": null
+        },
+        {
+          "citation": "Boggs, Jean Sutherland. <em>Portraits by Degas</em>. Berkeley, CA: University of California Press, 1962.",
+          "page_number": "Reproduced: p. 94, no. 2",
+          "url": null
+        },
+        {
+          "citation": "Parry, Eugenia. <em>Degas Monotypes;</em> Essay, Catalogue &amp; Checklist. Cambridge, MA: Fogg Art Museum, Harvard University; distributed by New York Graphic Society, Greenwich, Conn, 1968.",
+          "page_number": "Reproduced: under no. 53",
+          "url": null
+        },
+        {
+          "citation": "Russoli, Franco and Fiorella Minervino. <em>L'opera completa di Degas</em>. Milano: IT Rizzoli, 1970.",
+          "page_number": "Reproduced: no. 580",
+          "url": null
+        },
+        {
+          "citation": "Reff, Theodore. Degas: <em>The Artist's Mind</em>. New York, NY: Metropolitan Museum of Art, 1976.",
+          "page_number": "Reproduced: p. 85-86",
+          "url": null
+        },
+        {
+          "citation": "Nathanson, Carol and Edward Olszewski. \"Degas's Angel of The Apocalypse.\" The Bulletin of the Cleveland Museum of Art LXVII, no. 10 (October, 1980): 243-255.",
+          "page_number": "Reproduced: p. 252, fig. 21; Mentioned: p. 251",
+          "url": null
+        },
+        {
+          "citation": "Brettell, Richard R., and Suzanne Folds McCullagh. <em>Degas in the Art Institute of Chicago</em>. Chicago, IL: Art Institute of Chicago, 1984.",
+          "page_number": "Reproduced: p. 84",
+          "url": null
+        },
+        {
+          "citation": "Sutton, Denys. <em>Edgar Degas, Life and Work</em>. New York, NY: Rizzoli, 1986.",
+          "page_number": "Reproduced: p. 283",
+          "url": null
+        },
+        {
+          "citation": "Kendall, Richard. <em>Degas by Himself: Drawings, Prints, Paintings, Writings. </em>London, UK: Macdonald Orbis, 1987.",
+          "page_number": "Reproduced: p. 134",
+          "url": null
+        },
+        {
+          "citation": "Thomson, Richard, and Edgar Degas. <em>The Private Degas</em>. New York, N.Y.: Thames and Hudson, 1987.",
+          "page_number": "Referenced: cat. no. 59, p. 54, 140, Reproduced",
+          "url": null
+        },
+        {
+          "citation": "Sutton, Denys, and Jean Admémar. “Lettres Inédites De Degas Á Paul Lafond Et Autres Documents.” <em>Gazette Des Beaux Arts</em> 109, no. 129 (April 1987): 159–80.",
+          "page_number": "Reproduced: p. 160",
+          "url": null
+        },
+        {
+          "citation": "Brown, Marilyn R. “Degas and a Cotton Office in New Orleans.” <em>Burlington Magazine</em> 130 (March 1988): 216–21.",
+          "page_number": "Reproduced: p. 219, fig. 38",
+          "url": null
+        },
+        {
+          "citation": "Chong, Alan.<em> European &amp; American Painting in the Cleveland Museum of Art: A Summary Catalogue.</em> Cleveland, Ohio: Cleveland Museum of Art, 1993.",
+          "page_number": "Reproduced: p. 58",
+          "url": null
+        },
+        {
+          "citation": "Brown, Marilyn. <em>Degas and the Business of Art: A Cotton Office in New Orleans</em>. University Park, PA: Published for College Art Association by the Pennsylvania State University Press, 1994.",
+          "page_number": "Reproduced: p. 109, fig. 31",
+          "url": null
+        },
+        {
+          "citation": "Ives, Colta Feller, Susan Alyson Stein, and Julie A. Steiner. <em>The Private Collection of Edgar Degas: A Summary Catalogue</em>. New York, NY: Metropolitan Museum of Art, 1997.",
+          "page_number": "Mentioned: p. 169; Reproduced: p. 170",
+          "url": null
+        },
+        {
+          "citation": "Feigenbaum, Gail, and Jean Sutherland Boggs. <em>Degas and New Orleans: A</em> <em>French Impressionist in America. </em>New Orleans, LA: New Orleans Museum of Art, 1999.",
+          "page_number": "Reproduced: p. 59, fig. 45",
+          "url": null
+        },
+        {
+          "citation": "D' Argencourt, Louise, and Roger Diederen. <em>Catalogue of Paintings. Pt. 4. European Paintings of the 19th Centur</em>y. Cleveland: Cleveland Museum of Art, 1974.",
+          "page_number": "Mentioned and reproduced: vol. 1, p. 78",
+          "url": null
+        },
+        {
+          "citation": "Dumas, Ann. <em>Degas e gli italiani a Parigi: Ferrara, Palazzo dei Diamanti,</em> 14 settembre-16 novembre 2003. Ferrara, IT: Ferrara arte, 2003.",
+          "page_number": "Mentioned: p. 222-223; Reproduced: no. 13",
+          "url": null
+        },
+        {
+          "citation": "Pingeot, Anne. \"Rodin 1840-1917 und Degas (Bildhauer) 1834-1917: Umgang mit der Kunstkritik.\" In <em>Degas - Rodin: Wettlauf der Giganten der Moderne. </em>Gerhard Finckh, ed., 263-283. Wuppertal : Von der Heydt-Museum, 2016.",
+          "page_number": "Reproduced: p. 269",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1958.25",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.25/1958.25_web.jpg",
+          "width": "1148",
+          "height": "893",
+          "filesize": "677044",
+          "filename": "1958.25_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.25/1958.25_print.jpg",
+          "width": "3400",
+          "height": "2644",
+          "filesize": "6110864",
+          "filename": "1958.25_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.25/1958.25_full.tif",
+          "width": "6000",
+          "height": "4666",
+          "filesize": "84019128",
+          "filename": "1958.25_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Bequest of Leonard C. Hanna Jr.",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Nancy F. and Joseph P. Keithley Gallery",
+      "athena_id": 135238,
+      "creators": [
+        {
+          "id": 1759,
+          "description": "Edgar Degas (French, 1834–1917)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Son of a Parisian banker, Edgar Degas enrolled in law school in 1853 following his father's wishes. But he had already shown an interest in art and had also registered to copy at the Louvre. In 1855 he entered the École des Beaux-Arts and became a student of Louis Lamothe (1822-1869), a former pupil of Ingres (q.v.). One year later Degas made the traditional journey to Italy, remaining there for three years. He visited family members in Naples and Florence and attended life classes at the Villa Medici in Rome. A visit to Normandy in 1861 may have introduced him to the racetrack. In Paris he continued to study at the Louvre, where he met Manet (q.v.) in 1862. Apart from his continuous interest in portraiture and history painting, Degas began to pay attention to subjects of modern life. Between 1865 and 1870, he exhibited at the Salon. At the time of the Franco-Prussian War, he enlisted in the artillery, but because of his poor eyesight he served (with Manet) in the infantry. After the war he traveled first to London and, in 1872-73, visited his uncle and brothers who had a cotton business in New Orleans. Degas participated in the first impressionist exhibition of 1874. He continued to exhibit with these artists until 1886 but never completely considered himself a member of the group, preferring to call himself a realist or naturalist. While many of the impressionists painted en plein air, Degas worked with models in his studio and, later in his career, from his imagination. In addition to painting, he experimented often with monotypes, engraving, pastels, sculpture, and photography. He traveled extensively-London, Naples, Spain, Morocco, and Switzerland-but continued to draw his subject matter from modern-day Paris. Other recurring themes would be the female nude and the ballet dancer. After the impressionist exhibition of 1886, Degas no longer participated in group shows. Instead he sold his works to private dealers such as Durand-Ruel and Ambroise Vollard. In the 1890s he began his own art collection, which, besides many works on paper, included paintings by such artists as Ingres, Cézanne (q.v.), Delacroix (q.v.), Gauguin (q.v.), and van Gogh (q.v.). His own art at the time became characterized by broader strokes of paint, charcoal, and pastel and the use of more vibrant colors, partly because of problems with his vision. His failing eyesight and poor health caused him to abandon his pursuit of art during the last years of his life.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1917"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1958-11-29T00:00:00",
+      "sortable_date": 1873,
+      "date_text": "c. 1878–80",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2025-03-07 12:09:33.688000"
+    },
+    {
+      "id": 123365,
+      "accession_number": "1943.60",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Gray and Gold, 1942. John Rogers Cox (American, 1915–1990). Oil on canvas; framed: 116 x 152 x 12.5 cm (45 11/16 x 59 13/16 x 4 15/16 in.); unframed: 91.5 x 151.8 cm (36 x 59 3/4 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund 1943.60",
+      "current_location": "226B American Modern",
+      "title": "Gray and Gold",
+      "creation_date": "1942",
+      "creation_date_earliest": 1942,
+      "creation_date_latest": 1942,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "oil on canvas",
+      "support_materials": [],
+      "department": "American Painting and Sculpture",
+      "collection": "American - Painting",
+      "type": "Painting",
+      "measurements": "Framed: 116 x 152 x 12.5 cm (45 11/16 x 59 13/16 x 4 15/16 in.); Unframed: 91.5 x 151.8 cm (36 x 59 3/4 in.)",
+      "dimensions": {
+        "framed": {
+          "height": 1.16,
+          "width": 1.52,
+          "depth": 0.125
+        },
+        "unframed": {
+          "height": 0.915,
+          "width": 1.518
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "signed lower right:  John Rogers Cox 1942",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 318288,
+            "title": "Artists for Victory",
+            "description": "<i>Artists for Victory</i>. The Metropolitan Museum of Art, New York, NY (organizer) (co-organizer) (January 1-February 22, 1943).",
+            "opening_date": "1943-01-01T04:00:00"
+          },
+          {
+            "id": 318291,
+            "title": "54th Annual Exhibition of American Paintings and Sculpture",
+            "description": "<i>54th Annual Exhibition of American Paintings and Sculpture</i>. The Art Institute of Chicago (organizer) (October 28-December 12, 1943).",
+            "opening_date": "1943-10-28T04:00:00"
+          },
+          {
+            "id": 318296,
+            "title": "Painting in the United States, 1944",
+            "description": "<i>Painting in the United States, 1944</i>. Carnegie Museum of Art, Pittsburgh, PA (organizer) (co-organizer) (September 5-December 10, 1944).",
+            "opening_date": "1944-09-05T04:00:00"
+          },
+          {
+            "id": 318697,
+            "title": "Contemporary American Painting",
+            "description": "<i>Contemporary American Painting</i>. Rhode Island School of Design (organizer) (February 6-28, 1946).",
+            "opening_date": "1946-02-06T05:00:00"
+          },
+          {
+            "id": 318703,
+            "title": "Museum's Choice",
+            "description": "<i>Museum's Choice</i>. Addison Gallery of American Art, Andover, MA (organizer) (March 8-April 30, 1946).",
+            "opening_date": "1946-03-08T05:00:00"
+          },
+          {
+            "id": 318494,
+            "title": "The 50 Most Popular Paintings in the History of American Art",
+            "description": "<i>The 50 Most Popular Paintings in the History of American Art</i>. The Dallas Museum of Art (organizer) (October 9-November 7, 1948).",
+            "opening_date": "1948-10-09T05:00:00"
+          },
+          {
+            "id": 318497,
+            "title": "Life in America",
+            "description": "<i>Life in America</i>. Denver Art Museum, Denver, CO (organizer) (co-organizer) (March 4-April 30, 1951).",
+            "opening_date": "1951-03-04T05:00:00"
+          },
+          {
+            "id": 318500,
+            "title": "Centennial Exhibition",
+            "description": "<i>Centennial Exhibition</i>. Joslyn Art Museum, Omaha, NE (organizer) (co-organizer) (May 11-July 4, 1954).",
+            "opening_date": "1954-05-11T04:00:00"
+          },
+          {
+            "id": 318505,
+            "title": "Illusion and Reality",
+            "description": "<i>Illusion and Reality</i>. Santa Barbara Museum of Art, Santa Barbara, CA (organizer) (co-organizer) (June 15-July 22, 1956); Pasadena Museum of California Art (August 5-September 9, 1956); Museum of Fine Arts, Houston, Houston, TX (October 5-31, 1956); The Dallas Museum of Art, Dallas, TX (October 31-November 30, 1956).",
+            "opening_date": "1956-08-05T04:00:00"
+          },
+          {
+            "id": 318547,
+            "title": "20th Anniversary Special Exhibition: 60 Terre Haute Artists",
+            "description": "<i>20th Anniversary Special Exhibition: 60 Terre Haute Artists</i>. Sheldon Swope Art Museum Inc., Terra Haute, IN (organizer) (November 4-December 2, 1962).",
+            "opening_date": "1962-11-04T05:00:00"
+          },
+          {
+            "id": 318691,
+            "title": "An Unfulfilled Dream: The Neglected Generation of American Scene Painters: 1930-1948",
+            "description": "<i>An Unfulfilled Dream: The Neglected Generation of American Scene Painters: 1930-1948</i>. Wichita Art Museum, Wichita, KS (organizer) (May 2-June 14, 1981).",
+            "opening_date": "1981-05-02T04:00:00"
+          },
+          {
+            "id": 318694,
+            "title": "A Retrospective Exhibition of the Art of John Rogers Cox",
+            "description": "<i>A Retrospective Exhibition of the Art of John Rogers Cox</i>. Sheldon Swope Art Museum Inc., Terra Haute, IN (organizer) (May 14-June 13, 1982).",
+            "opening_date": "1982-05-14T04:00:00"
+          },
+          {
+            "id": 221943,
+            "title": "Illusions of Eden: Visions of the American Heartland",
+            "description": "<i>Illusions of Eden: Visions of the American Heartland</i>. Columbus Museum of Art, Columbus, OH (organizer) (February 18-April 30, 2000).",
+            "opening_date": "2000-02-18T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Toronto, Art Gallery of Toronto (February 1945).",
+            "opening_date": "1945-02-01T00:00:00"
+          },
+          {
+            "description": "Terre Haute, Indiana, Sheldon Swope Art Gallery (May 1945).",
+            "opening_date": "1945-05-01T00:00:00"
+          },
+          {
+            "description": "Columbus, OH, Columbus Museum of Art, Illusions of Eden: Visions of the American Heartland (18 February - 30 April 2000) cat. ill. cover, pp. 94, 186, p. 271 ; traveled to Vienna, Austria, Museum of Modern Art/Ludwig Foundation Vienna (1 June - 15 August 2000); traveled to Budapest, Hungary, Ludwig Museum/Museum of Contemporary Art (25 September - 26 November 2000); did not travel to Madison, Wisconsin, Madison Art Center (24 February - 13 May 2001); did not travel to Sioux Falls, South Dakota, Washington Pavilion of Arts &amp; Science (June - August 2001).",
+            "opening_date": "2000-02-18T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (03/01/2006 - 06/01/2006); \"American Icons: American Masterworks from the 1930s\"",
+            "opening_date": "2006-03-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "[Artists for Victory, Inc., New York, NY], by 1942",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Purchased with income from the Mr. and Mrs. William H. Marlatt Fund, from Artists for Victory, Inc. The Artists for Victory exhibition, held at the Metropolitan Museum of Art in New York, was also mounted at the Cleveland Museum of Art, in 1943.</div>"
+          ],
+          "date": "",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH, purchased in 1943",
+          "citations": [],
+          "footnotes": [],
+          "date": "1943-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "A framed reproduction of this painting is displayed on the living room walls of a farmhouse in the sci-fi film <em>Looper</em>, starring Bruce Willis.",
+      "description": "Cox painted <em>Gray and Gold</em> shortly after the United States joined the Second World War, and its image of amber waves of grain threatened by ominous storm clouds likely has symbolic overtones. The painting's foreground features an intersection of two dirt lanes, as well as a telephone pole emblazoned with political campaign posters. The artist seems to imply that American democracy is at a crossroads during this time of combat against the spread of fascism in Europe and Asia. Interestingly the work was inspired by the landscape around Cox's hometown of Terre Haute, Indiana, a location nicknamed \"The Crossroads of America\" due to the junction of major north-south and east-west national highways within its city limits. The museum purchased this painting out of a traveling exhibition entitled \"Artists for Victory,\" which consisted of works by artists who wanted to assist in the war effort. The exhibition opened at the Metropolitan Museum of Art in New York on the first anniversary of the bombing at Pearl Harbor.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60514906"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "<em>Artists for Victory: An Exhibition of Contemporary American Art, Paintings, Sculpture, Prints</em>. 2 vols. New York: Metropolitan Museum of Art, 1942.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "\"Victory Show Sales,\" <em>Art Digest </em>17 (April 1, 1943)",
+          "page_number": "Mentioned p. 15",
+          "url": ""
+        },
+        {
+          "citation": "Korkow, Cory. “Four Curators, Four Favorites.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>62, no. 2 (2022): 29.",
+          "page_number": "Reproduced and Mentioned: P. 29.",
+          "url": ""
+        },
+        {
+          "citation": "Waker, Andrew, ed., <em>Joe Jones : Radical Painter of the American Scene, </em>exh. cat., Saint Louis Art Museum, 2010.",
+          "page_number": "Mentioned p, 76; reproduced p. 75.",
+          "url": ""
+        },
+        {
+          "citation": "Metropolitan Museum of Art.<em> Artists for Victory: An Exhibition of Contemporary American Art, A Picture Book of the Prize Winners. </em>New York, 1942.",
+          "page_number": "Reproduced: fig. 15",
+          "url": null
+        },
+        {
+          "citation": "Jewell, Edward Alden. \"Artists For Victory: Metropolitan Opens Tomorrow the Huge Contemporary American Survey.\" <em>The New York Times, </em>December 6, 1942.",
+          "page_number": "Reproduced",
+          "url": null
+        },
+        {
+          "citation": "\"Artists for Victory Score Victory in Metropolitan Exhibition,\" <em>Art Digest </em>17 no. 6 (December, 15 1942).",
+          "page_number": "Mentioned: p. 6; Reproduced: p. 8",
+          "url": null
+        },
+        {
+          "citation": "\"The Artists for Victory Exhibition: The Paintings,\" <em>Art News</em> 41 (January 1, 1943).",
+          "page_number": "Mentioned: p. 8-9; Reproduced: p. 9",
+          "url": null
+        },
+        {
+          "citation": "<em>Art News </em>41 (January 15, 1943).",
+          "page_number": "Reproduced: p. 17",
+          "url": null
+        },
+        {
+          "citation": "\"Cleveland Museum of Art Presents Paintings Selected from National Exhibition,\" <em>Cleveland Plain Dealer, </em>March 21, 1943.",
+          "page_number": "Reproduced",
+          "url": null
+        },
+        {
+          "citation": "\"Victory Show Sales.\" <em>Art Digest</em> 17 (April 1, 1943).",
+          "page_number": "Mentioned: p.15",
+          "url": ""
+        },
+        {
+          "citation": "Holme, Bryan. \"New York Commentary.\"<em> London Studio</em> (July 1943).",
+          "page_number": "Reproduced: p. 28",
+          "url": null
+        },
+        {
+          "citation": "West Virginia Pulp and Paper Company, <em>Westvaco Inspirations for Printers 1942-1943</em> (1943).",
+          "page_number": "Mentioned: p. 143; Reproduced: cover",
+          "url": null
+        },
+        {
+          "citation": "Cravens, Dargan &amp; Company Insurance Managers, Houston, Texas, Review 25 no. 5 (April 1944).",
+          "page_number": "Reproduced: cover",
+          "url": null
+        },
+        {
+          "citation": "\"State Artist's Work Displayed.\" <em>The Indianapolis Times, </em>October 18, 1944.",
+          "page_number": "Reproduced",
+          "url": null
+        },
+        {
+          "citation": "\"Grey and Gold by John Rogers Cox Voted Popular Prize,\" <em>The Carnegie Magazine</em> (December 1944).",
+          "page_number": "Mentioned: p. 195-7; Reproduced: p. 195",
+          "url": null
+        },
+        {
+          "citation": "\"Hoosier's Painting Carnegie Favorite.\" <em>Indianapolis Star, </em>December 5, 1944.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "\"Cox, Soldier-Artist, Wins Carnegie 'Popular'.\" <em>Art Digest </em>19 (December 15, 1944).",
+          "page_number": "Mentioned: p. 9; Reproduced: p. 9",
+          "url": null
+        },
+        {
+          "citation": "<em>Time Magazine</em> (December 18, 1944).",
+          "page_number": "Mentioned: p. 50",
+          "url": null
+        },
+        {
+          "citation": "<em>The Bulletin of the Cleveland Museum of Art</em> 32, no. 7(September 1945).",
+          "page_number": "Mentioned: p. 138; Reproduced: p. 134",
+          "url": null
+        },
+        {
+          "citation": "Burchfield, Louise. \"Two American Paintings.\" <em>The Bulletin of the Cleveland Museum of Art </em>32, no. 7 (September 1945): 137-139.",
+          "page_number": "Reproduced: p. 134; Mentioned: p. 138",
+          "url": "https://www.jstor.org/stable/25141226"
+        },
+        {
+          "citation": "Milliken, William M. \"Place of the Museum of Art in the Life of a City.\" <em>The Clevlander</em> (August 1946).",
+          "page_number": "Reproduced: p. 6",
+          "url": null
+        },
+        {
+          "citation": "\"The Popular Prize.\"<em> The Carnegie Magazine</em> 20 (December 1946).",
+          "page_number": "Mentioned: p. 172-3",
+          "url": null
+        },
+        {
+          "citation": "\"Cox Popular Choice of Carnegie Visitors.\" <em>Art Digest</em> 21 (December 15, 1946).",
+          "page_number": "Mentioned: p. 9",
+          "url": null
+        },
+        {
+          "citation": "Dallas Museum of Fine Arts, State Fair of Texas,<em> Famous American Paintings </em>(1948).",
+          "page_number": "Reproduced",
+          "url": null
+        },
+        {
+          "citation": "<em>Catalogue de Reproductions en Couleurs de la Peinture de 1860 a 1949.</em> Paris: Unesco, 1949.",
+          "page_number": "Mentioned: p. 62-3; Reproduced: p. 63",
+          "url": null
+        },
+        {
+          "citation": "<em>New York Times Book Review, </em>October 16, 1955.",
+          "page_number": "Reproduced",
+          "url": null
+        },
+        {
+          "citation": "\"Anniversary Year Exhibit to Open Sunday at Swope Gallery Preview.\" <em>The Terre Haute Sta</em>r, November 2, 1962.",
+          "page_number": "Reproduced",
+          "url": null
+        },
+        {
+          "citation": "Wahl, Charles William, M.D., \"Psychodynamics of Sexual Humor: Sex and the Salesman.\" <em>Medical Aspects of Human Sexuality</em> (August 1978).",
+          "page_number": "Reproduced: p. 26-7, cover",
+          "url": null
+        },
+        {
+          "citation": "Szymanski, Ronald, ed. <em>America in Literature: The Midwest. </em>New York: Charles Scribner's Sons, 1979.",
+          "page_number": "Reproduced: cover",
+          "url": null
+        },
+        {
+          "citation": "Sheldon Swope Art Gallery. \"The Sheldon Swope Art Gallery Newsletter.\" (May-July 1982).",
+          "page_number": "Reproduced: fig. 2",
+          "url": null
+        },
+        {
+          "citation": "Kinsman, Robert D. \"Art from Swope: Painting looks at forces of nature.\" <em>The Tribune-Star</em>- Terre Haute, May 16, 1982.",
+          "page_number": "Mentioned: p. 12; Reproduced",
+          "url": null
+        },
+        {
+          "citation": "Hubbard, Guy. \"Teaching Art with Art: Turbulent Skyscapes.\" <em>Arts &amp; Activities</em> 103, no. 3 (April 1988).",
+          "page_number": "Mentioned: p. 26-7",
+          "url": null
+        },
+        {
+          "citation": "\"A final tribute.\" <em>Tribune-Star, Terre Haute, </em>February 4, 1990.",
+          "page_number": "Reproduced",
+          "url": null
+        },
+        {
+          "citation": "Chong, Alan. <em>European and American Painting in the Cleveland Museum of Art: A Summary Catalogue. </em>Cleveland Museum of Art: Cleveland, 1993.",
+          "page_number": "Reproduced: p. 46",
+          "url": null
+        },
+        {
+          "citation": "Chaon, Dan. <em> Fitting Ends and Other Stories by Dan Chaon.</em> Evanston: Northwestern University Press,1995.",
+          "page_number": "Reproduced: cover",
+          "url": null
+        },
+        {
+          "citation": "Païni, Dominique, and Guy Cogeval. <em>Hitchcock and Art: Fatal Coincidences</em>. Montreal: The Montreal Museum of Fine Arts, 2000.",
+          "page_number": "Mentioned: p. 341",
+          "url": null
+        },
+        {
+          "citation": "Stearns, Robert. ed. <em>Illusions of Eden. Visions of the American Heartland. </em>Minneapolis: Arts Midwest, 2000.",
+          "page_number": "Mentioned: p. 271; Reproduced: p. 94",
+          "url": null
+        },
+        {
+          "citation": "Maciejunes, Nannette V. \"Visions of the American Heartland.\" <em>American Art Review </em>12, no. 2 (March-April 2000).",
+          "page_number": "Mentioned: p. 114",
+          "url": null
+        },
+        {
+          "citation": "\"Vienna and Budapest: Illusions of Eden.\" <em>The Burlington Magazine </em>(November 2000).",
+          "page_number": "Mentioned: p. 719",
+          "url": null
+        },
+        {
+          "citation": "<em>Academic Medicine: Journal of the Association of American Medical Colleges.</em> (August, 2001).",
+          "page_number": "Reproduced: p. 761; cover",
+          "url": null
+        },
+        {
+          "citation": "Dijkstra, Bram. <em>American Expressionism: Art and Social Change 1920-1950. </em>New York: Harry N. Abrams, 2003.",
+          "page_number": "Mentioned: p. 188, 196",
+          "url": null
+        },
+        {
+          "citation": "Norman, Bud. <em>The Things That Are Caesar’s: A Comic Tale of Politics, Religion, and Other Impolite Topics. </em>Wichita: Affiliated Writers of America, 2003.",
+          "page_number": "Reproduced: back cover",
+          "url": null
+        },
+        {
+          "citation": "Martha Parrish &amp; James Reinish, Inc., <em>19th and 20th Century European and American Art </em>(gallery catalogue) (February, 2005).",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Chandler, Neal, ed. \"Silver Apples of the Moon: Art and Poetry.\" Cleveland: Cleveland State Poetry Center in association with Shaker Heights Public Library, 2006.",
+          "page_number": "Reproduced: p. 53",
+          "url": null
+        },
+        {
+          "citation": "Adams, Henry. <em>What's American about American Art? A Gallery Tour in the Cleveland Museum of Art.</em> Cleveland: Cleveland Museum of Art, 2008.",
+          "page_number": "Mentioned: p. 141",
+          "url": null
+        },
+        {
+          "citation": "Walker, Andrew, ed. <em>Joe Jones: Radical Painter of the American Scene. </em>Exh. cat. St. Louis: St. Louis Art Museum, 2010.",
+          "page_number": "Mentioned: p. 76; Reproduced: p. 75",
+          "url": null
+        },
+        {
+          "citation": "Perry, Dee. \"Personal Favorite.\" <em>Cleveland Art </em>50 (March/April 2010).",
+          "page_number": "Mentioned: p. 10",
+          "url": null
+        },
+        {
+          "citation": "\"Toward the Vision: The Cleveland Museum of Art.\" Museum publication booklet. 2012.",
+          "page_number": "Reproduced: cover",
+          "url": null
+        },
+        {
+          "citation": "Kash, Steve. \"Life As an Artist.\" <em>Tribune-Star</em>- Terre Haute, October 7, 2012.",
+          "page_number": "Mentioned: p. D4",
+          "url": null
+        },
+        {
+          "citation": "Cole, Mark. \"American Art of the 1930s to 1950s.\" <em>Cleveland Art</em> 54 (January/February 2014).",
+          "page_number": "Mentioned: p. 21",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 59",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Museum Masters: 2016-17 Companion Guide.</em> [Cleveland, Ohio]: Cleveland Museum of Art, 2016.",
+          "page_number": "Mentioned and reproduced: P. 23",
+          "url": ""
+        },
+        {
+          "citation": "Daiss, Susan Dodge-Peters. \"Art at the Bedside: Reflections on Use of Visual Imagery in Hospital Chaplaincy.\" <em>Journal of Pastoral Care &amp; Counseling</em> 70, no. 1 (March 2016).",
+          "page_number": "Reproduced: p.77",
+          "url": null
+        },
+        {
+          "citation": "Eldredge, Charles C. W<em>e Gather Together: American Artists and the Harvest</em>. Oakland, California: University of California Press, 2021.",
+          "page_number": "Mentioned and reproduced: P. 89, fig. 44",
+          "url": ""
+        },
+        {
+          "citation": "Arizpe S., Lourdes, and Jérôme Duval-Hamel. Spicilège beaux-arts de l'art faber: quand les beaux-arts et les mondes économiques se rencontrent. <br>Arles : Actes Sud, 2023.",
+          "page_number": "Mentioned: p. 60; Reproduced: p. 60, ill. 4, p. 91",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1943.60",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Hammond Hemmelgarn Family Gallery",
+      "athena_id": 123365,
+      "creators": [
+        {
+          "id": 3077,
+          "description": "John Rogers Cox (American, 1915–1990)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1915",
+          "death_year": "1990"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1943-02-03T00:00:00",
+      "sortable_date": 1942,
+      "date_text": "1942",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": true,
+      "updated_at": "2025-02-15 12:46:36.828000"
+    },
+    {
+      "id": 165157,
+      "accession_number": "2007.158",
+      "share_license_status": "Copyrighted",
+      "tombstone": "Fulton and Nostrand, 1958. Jacob Lawrence (American, 1917–2000). Tempera on Masonite; unframed: 60.9 x 76.2 cm (24 x 30 in.). The Cleveland Museum of Art, Mr. and Mrs. William H. Marlatt Fund 2007.158 © The Jacob and Gwendolyn Knight Lawrence Foundation, Seattle / Artists Rights Society (ARS), New York.",
+      "current_location": "226B American Modern",
+      "title": "Fulton and Nostrand",
+      "creation_date": "1958",
+      "creation_date_earliest": 1958,
+      "creation_date_latest": 1958,
+      "artists_tags": [
+        "Black American Artists",
+        "male"
+      ],
+      "culture": [
+        "America"
+      ],
+      "technique": "tempera on Masonite",
+      "support_materials": [],
+      "department": "American Painting and Sculpture",
+      "collection": "American - Painting",
+      "type": "Painting",
+      "measurements": "Unframed: 60.9 x 76.2 cm (24 x 30 in.)",
+      "dimensions": {
+        "unframed": {
+          "height": 0.609,
+          "width": 0.762
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": "© The Jacob and Gwendolyn Knight Lawrence Foundation, Seattle / Artists Rights Society (ARS), New York.",
+      "inscriptions": [
+        {
+          "inscription": "signed lower right \"Jacob Lawrence 58\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "Annual Exhibition: Sculpture, Paintings, Watercolors, Drawings, Whitney Museum of American Art, New York, November 19. 1958-January 4, 1959.",
+            "opening_date": "1959-01-04T00:00:00"
+          },
+          {
+            "description": "American Sculpture and Painting: American National Exhibition in Moscow, The Pushkin Museum of Fine Arts, Moscow, July 25-September 5, 1959; Whitney Museum of American Art, New York, October 28-November 15, 1959.",
+            "opening_date": "1959-07-25T00:00:00"
+          },
+          {
+            "description": "Between the Fairs: Twenty-Five Years of American Art, 1939-1964, Whitney Museum of American Art, New York, June 24-September 23, 1964.",
+            "opening_date": "1964-06-24T00:00:00"
+          },
+          {
+            "description": "Contemporary Urban Visions, Wollman Hall, New School Art Center, New School for Social Research, New York, January 25-February 24, 1966.",
+            "opening_date": "1966-01-25T00:00:00"
+          },
+          {
+            "description": "Crossing State Lines: Twentieth-Century Art from Private Collections in Westchester and Fairfield Counties, Neuberger Museum of Art, Purchase College, State University of New York, March 26-June 18, 1995.",
+            "opening_date": "1995-03-26T00:00:00"
+          },
+          {
+            "description": "Jacob Lawrence Memorial Exhibition: Paintings, 1937-1999, DC Moore Gallery, New York, February 6-March 3, 2001.",
+            "opening_date": "2001-02-06T00:00:00"
+          },
+          {
+            "description": "Syncopated Rhythms: 20th-Century African American Art from the George and Joyce Wein Collection, Boston University Art Gallery, November 18, 2005-January 22, 2006.",
+            "opening_date": "2005-11-18T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(The Alan Stone Gallery, New York, NY,  sold to Alexander and Sylvian Rittmaster)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Jacob Lawrence sold the painting directly to the Alan Gallery in 1958.&nbsp;</div>"
+          ],
+          "date": "1958",
+          "sortorder": 1
+        },
+        {
+          "description": "Alexander [1916-1969] and Sylvian Rittmaster [1917-1978], Woodmere, NY",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Although Slyvian Rittmaster died in 1978, the 1981 Sotheby Parke Bernet catalogue lists the painting as coming from their collection, hence listing the painting's dates with the Rittmasters as ending with 1981 rather than 1978.&nbsp;</div>"
+          ],
+          "date": "1958-1981",
+          "sortorder": 2
+        },
+        {
+          "description": "(Sotheby Park Bernet, New York, NY, May 29,1981, lot 182, sold to the Terry Dintenfass Gallery)",
+          "citations": [],
+          "footnotes": null,
+          "date": "1981-1983?",
+          "sortorder": 3
+        },
+        {
+          "description": "(Terry Dintenfass Gallery, New York, NY, sold to George and Joyce Wein)",
+          "citations": [],
+          "footnotes": [],
+          "date": "1983",
+          "sortorder": 4
+        },
+        {
+          "description": "George [b. 1925] and Joyce [1928-2005] Wein, New York, NY, consigned to the Michael Rosenfeld Gallery",
+          "citations": [],
+          "footnotes": [],
+          "date": "1983-2007",
+          "sortorder": 5
+        },
+        {
+          "description": "(Michael Rosenfeld Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2007",
+          "sortorder": 6
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2007-",
+          "sortorder": 7
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Lawrence was teaching art at the Pratt Institute in Brooklyn when he created this painting.",
+      "description": "Having moved to Harlem as a teenager, Lawrence would become the first major artist trained entirely within the neighborhood’s African American community. Throughout his long career he believed art should be a quest for both self and social identity, a notion reflected in this work, one of his liveliest and largest paintings. Teeming with more than forty figures, it depicts the vibrant streetscape at the intersection of Fulton Street and Nostrand Avenue in Brooklyn, near where the artist lived at the time.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60480377"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Frascina, Francis. \"Institutions, Culture, and America's 'Cold War Years': The Making of Greenberg's 'Modernist Painting',\" <em>Oxford Art Journal</em> 26 (2003).",
+          "page_number": "Mentioned p. 84.",
+          "url": ""
+        },
+        {
+          "citation": "Annual Exhibition: Sculpture, Paintings, Watercolors, Drawings (New York: Whitney Museum of American Art, 1958).",
+          "page_number": "Unpaginated, [8],[12]",
+          "url": null
+        },
+        {
+          "citation": "\"Moscow to See Modern U.S. Art,\"<em> New York Times</em> (May 31, 1959).",
+          "page_number": "P. 60",
+          "url": null
+        },
+        {
+          "citation": "Baur, John I. H. <em>Between the Fairs: 25 Years of America Art, 1939-1964.</em> New York. Whitney Museum. Catalogues. 1962-64. New York: Published for the Whitney Museum of American Art by F.A. Praeger, 1964.",
+          "page_number": "P. 88",
+          "url": null
+        },
+        {
+          "citation": "Kramer,Hilton. \"In the Museums,\" <em>Art in America</em> 52 (April 1964).",
+          "page_number": "P. 42",
+          "url": null
+        },
+        {
+          "citation": "Illustration for Victor S. Navasky, \"With Malice Toward All,\" <em>New York Times Book Review </em>(February 27, 1966).",
+          "page_number": "P. 4",
+          "url": null
+        },
+        {
+          "citation": "Chwast, Seymour, and Steven Heller. <em>The Art of New York</em>. New York: H.N. Abrams, 1983.",
+          "page_number": "P. 18, 76",
+          "url": null
+        },
+        {
+          "citation": "Berman,Avis. \"Jacob Lawrence and the Making of Americans,\" <em>ARTnews</em> 83 (February 1984).",
+          "page_number": "P. 82",
+          "url": null
+        },
+        {
+          "citation": "Wheat, Ellen Harkins, Jacob Lawrence, and Patricia Hills. <em>Jacob Lawrence, American Painter.</em> Seattle: University of Washington Press in association with the Seattle Art Museum, 1986.",
+          "page_number": "P. 107,129",
+          "url": null
+        },
+        {
+          "citation": "Sotheby's (Firm). <em>American Impressionist &amp; 20th Century Paintings, Drawings, Watercolors &amp; Sculpture</em>. May 29, 1981. Lot 182.",
+          "page_number": null,
+          "url": null
+        },
+        {
+          "citation": "Glueck, Grace. <em>New York: The Painted City</em>. Salt Lake City: Peregrine Smith Books, 1992.",
+          "page_number": "P. 54",
+          "url": null
+        },
+        {
+          "citation": "Stern, Robert A.M. et al., <em>New York 1960 </em>(New York: Monacelli Press, 1995).",
+          "page_number": "P. 1164",
+          "url": null
+        },
+        {
+          "citation": "Richard J. Powell, \"Harmonizer of Chaos,\" in Peter T. Nesbett and Michelle DuBois, eds., Over the Line: The Art and Life of Jacob Lawrence (Seattle: University of Washington, 2000).",
+          "page_number": "P. 148-49",
+          "url": null
+        },
+        {
+          "citation": "Nesbett, Peter T. and Michelle DuBois, <em>Jacob Lawrence: Paintings, Drawings, and Murals (1935-1999)</em>: <em>A Catalogue Raisonné.</em> Seattle: University of Washington, 2000.",
+          "page_number": "P. 141",
+          "url": null
+        },
+        {
+          "citation": "Wright, Gwendolyn. \"Permable Boundaries,\" in Peter Madsen and Richard Plunz, eds., <em>The Urban Lifeworld</em> (London: Routledge, 2002).",
+          "page_number": "Reproduced p. 210",
+          "url": null
+        },
+        {
+          "citation": "Kushner, Marilyn S.\"Exhibiting Art at the American National Exhibition in Moscow, 1959: Domestic Politics and Cultural Diplomacy,\" <em>Journal of Cold War Studies</em> 4 (Winter 2002), 24.",
+          "page_number": "P. 24",
+          "url": null
+        },
+        {
+          "citation": "Hills, Patricia, and Melissa Renn. Syncopated Rhythms: 20th-Century African American Art from the George and Joyce Wein Collection. Boston: Boston University Art Gallery, 2005.",
+          "page_number": "P. 64-65",
+          "url": null
+        },
+        {
+          "citation": "\"Harlem's Knights: Extraordinary $2 Million Bequest for Lawrence Scholars Program,\"<em> Parsons re:D</em> 22 (May 2005).",
+          "page_number": "P. 22",
+          "url": null
+        },
+        {
+          "citation": "<em>The Cleveland Museum of Art Annual Report </em>(July 1,2006- June 30, 2007).",
+          "page_number": "P. 26-7, 32",
+          "url": null
+        },
+        {
+          "citation": "Adams, Henry.<em> What's American About American Art?: A Gallery Tour in the Cleveland Museum of Art.</em> Cleveland: Cleveland Museum of Art, 2008.",
+          "page_number": "P. 8,13, 144-145",
+          "url": null
+        },
+        {
+          "citation": "Cole, Mark. \"Jacob Lawrence's Fulton and Nostrand,\" <em>Cleveland Art</em> 48 (February 2008).",
+          "page_number": "P. 6-7; Reproduced p. 6.",
+          "url": null
+        },
+        {
+          "citation": "Gordon, Margery. \"Eyes on the Prizes,\" <em>Art + Auction</em> 31 (February 2008).",
+          "page_number": "Reproduced p. 117",
+          "url": null
+        },
+        {
+          "citation": "Cole, Mark, \"Jacob Lawrence's Fulton and Nostrand\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 48 no. 2, February 2008",
+          "page_number": "Mentioned & reproduced: p. 6",
+          "url": "https://archive.org/details/CMAMM2008-02/page/6/mode"
+        },
+        {
+          "citation": "Cleveland Museum of Art, David Franklin, and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2012.",
+          "page_number": "P. 322-23",
+          "url": null
+        },
+        {
+          "citation": "Cole, Mark, Amy Sparks, and Rebecca Michaels.<em> African American Art: The Cleveland Museum of Art.</em> [Cleveland, Ohio]: Cleveland Museum of Art, 2013.",
+          "page_number": "P. 3,18; Reproduced p. 22",
+          "url": null
+        },
+        {
+          "citation": "Cole, Mark. \"American Art of the 1930s to 1950s,\" <em>Cleveland Art</em> 54 (January/February 2014).",
+          "page_number": "P. 21",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 62",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Museum Masters: 2016-17 Companion Guide.</em> [Cleveland, Ohio]: Cleveland Museum of Art, 2016.",
+          "page_number": "Mentioned and reproduced: P. 23",
+          "url": ""
+        },
+        {
+          "citation": "\"Recommendations from Our Curators.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>61, no. 2 (Spring 2021): 31.",
+          "page_number": "Reproduced and Mentioned: P. 31.",
+          "url": ""
+        },
+        {
+          "citation": "Kushner, Marilyn S., \"Exhibiting Art at the American National Exhibition in Moscow,\" <em>Journal of Cold War Studies </em>4 (Winter 2002).",
+          "page_number": "P. 24",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2007.158",
+      "images": {},
+      "alternate_images": [],
+      "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": "Hammond Hemmelgarn Family Gallery",
+      "athena_id": 165157,
+      "creators": [
+        {
+          "id": 4050,
+          "description": "Jacob Lawrence (American, 1917–2000)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Jacob Lawrence (born 1917) has been a prominent artist since 1941 when, at age 24, he became the first African American to have a work in the permanent collection of the Museum of Modern Art in New York. His career, now spanning seven decades, has been devoted to documenting African-American life and history, from everyday scenes to the universal struggle for freedom, social justice, and human dignity. Moving to Harlem as a teenager in 1930, Lawrence was influenced by the artists, writers, and philosophers of the Harlem Renaissance-among them Romare Bearden, Langston Hughes, and W.E.B. DuBois-who fostered pride in African-American culture. Lawrence's subjects include the legendary abolitionist heroes Frederick Douglass, Harriet Tubman, and John Brown, and the story of the massive migration of African Americans from the rural South to the industrialized, urban North during the early decades of the 20th century. After thorough research, Lawrence chronicles the crucial events of each saga by creating a series of small paintings on paper in a modernist style of flat, brightly-colored forms.",
+          "name_in_original_language": null,
+          "birth_year": "1917",
+          "death_year": "2000"
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2007-06-04T00:00:00",
+      "sortable_date": 1958,
+      "date_text": "1958",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": true,
+      "updated_at": "2025-02-09 06:14:17.172000"
+    }
+  ]
+}
