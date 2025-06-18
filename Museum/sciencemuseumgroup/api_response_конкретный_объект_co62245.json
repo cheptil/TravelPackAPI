@@ -1,0 +1,1607 @@
+{
+  "data": {
+    "___comment": "### WARNING ### - <enhancement> tags are experimental, please do not aggregate",
+    "type": "objects",
+    "id": "co62245",
+    "attributes": {
+      "@admin": {
+        "processed": 1750205044912,
+        "sequence": 21583578,
+        "uid": "co62245",
+        "added": 1699636837467,
+        "stream": "collections-online",
+        "id": "object-62245",
+        "source": "Mimsy XG",
+        "uuid": "525018b4-a227-328a-8951-e9b3eea4d03f"
+      },
+      "description": [
+        {
+          "type": "catalogue description",
+          "value": "Portion of the mill of the Analytical Engine with printing mechanism, designed by Charles Babbage and under construction at the time of his death, London, 1834-1871.",
+          "primary": true
+        },
+        {
+          "type": "web description",
+          "value": "This analytical engine, the first fully-automatic calculating machine, was constructed by British computing pioneer Charles Babbage (1791-1871), who first conceived the idea of an advanced calculating machine to calculate and print mathematical tables in 1812. Conceived by him in 1834, this machine was designed to evaluate any mathematical formula and to have even higher powers of analysis than his original Difference engine of the 1820s. Only part of the machine as a trial piece was completed before Babbage's death in 1871."
+        }
+      ],
+      "identifier": [
+        {
+          "type": "accession number",
+          "value": "1878-3",
+          "primary": true
+        },
+        {
+          "type": "special loan collection number",
+          "value": "E12-1905"
+        }
+      ],
+      "name": [
+        {
+          "type": "catalogue name",
+          "value": "analytical engine, mill",
+          "primary": true
+        },
+        {
+          "type": "object name",
+          "value": "analytical engine, mill"
+        }
+      ],
+      "summary": {
+        "title": "Babbage's Analytical Engine, 1834-1871. (Trial model)"
+      },
+      "title": [
+        {
+          "type": "catalogue title",
+          "value": "Babbage's Analytical Engine, 1834-1871. (Trial model)",
+          "primary": true
+        }
+      ],
+      "category": [
+        {
+          "museum": "SCM",
+          "name": "Computing & Data Processing",
+          "type": "category1",
+          "value": "SCM - Computing & Data Processing"
+        }
+      ],
+      "creation": {
+        "date": [
+          {
+            "from": "1871",
+            "source": "catalogue",
+            "to": "1871",
+            "value": "1871"
+          },
+          {
+            "note": [
+              {
+                "value": "SAC"
+              }
+            ],
+            "role": [
+              {
+                "value": "made"
+              }
+            ],
+            "from": "1871",
+            "to": "1871",
+            "value": "1871"
+          }
+        ],
+        "maker": [
+          {
+            "summary": {
+              "title": "Babbage, Charles"
+            },
+            "@link": {
+              "source": "catalogue"
+            },
+            "name": [
+              {
+                "value": "Babbage, Charles"
+              }
+            ],
+            "@entity": "literal"
+          },
+          {
+            "summary": {
+              "title": "Charles Babbage"
+            },
+            "@link": {
+              "role": [
+                {
+                  "value": "maker"
+                }
+              ],
+              "attribution": {
+                "type": "SAC"
+              }
+            },
+            "@admin": {
+              "uid": "cp36993",
+              "id": "agent-36993",
+              "uuid": "979b50db-1d7f-3285-9d01-f24c841e43d0"
+            },
+            "@entity": "reference"
+          }
+        ],
+        "place": [
+          {
+            "summary": {
+              "title": "London"
+            },
+            "@link": {
+              "role": [
+                {
+                  "value": "made"
+                }
+              ]
+            },
+            "@admin": {
+              "uid": "cd113",
+              "id": "place-113",
+              "uuid": "570507c0-09d4-3e9a-85da-284abeba102f"
+            },
+            "@entity": "reference"
+          },
+          {
+            "summary": {
+              "title": "London, England, United Kingdom"
+            },
+            "@link": {
+              "source": "catalogue"
+            },
+            "name": [
+              {
+                "value": "London, England, United Kingdom"
+              }
+            ],
+            "@entity": "literal"
+          }
+        ],
+        "@entity": "lifecycle"
+      },
+      "facility": [
+        {
+          "summary": {
+            "title": "SH74"
+          },
+          "note": [
+            {
+              "value": "This location record was made to reflect the introduction of Floor Level facilities in the Science Museum hierarchy, and where applicable the removal of legacy 'gallery codes' from the hierarchy [Anne Sharman/Data Team February 2025]"
+            }
+          ],
+          "@admin": {
+            "uid": "cf154953",
+            "id": "facility-154953",
+            "uuid": "8bd2445f-1464-3e8b-aa9c-0b19ace3b5ee"
+          },
+          "name": [
+            {
+              "type": "name",
+              "value": "Science Museum, Mathematics: The Winton Gallery",
+              "primary": true
+            },
+            {
+              "type": "gallery",
+              "value": "Mathematics: The Winton Gallery"
+            },
+            {
+              "type": "museum",
+              "value": "Science Museum"
+            }
+          ],
+          "@hierarchy": [
+            {
+              "@admin": {
+                "id": "facility-103",
+                "uuid": "39f90045-1ae3-3d84-ae56-caf2f2a7b52b",
+                "status": "public"
+              },
+              "name": [
+                {
+                  "type": "name",
+                  "value": "Science Museum"
+                }
+              ],
+              "@datatype": "site",
+              "@entity": "reference"
+            },
+            {
+              "@admin": {
+                "id": "facility-168776",
+                "uuid": "54d436c0-9fcf-355e-817a-19e4ad5d1f19",
+                "status": "public"
+              },
+              "name": [
+                {
+                  "type": "name",
+                  "value": "Second Floor"
+                }
+              ],
+              "@datatype": "floor",
+              "@entity": "reference"
+            },
+            {
+              "@admin": {
+                "id": "facility-154862",
+                "uuid": "32481518-9b5c-3a26-be3c-74cf7af3ca23",
+                "status": "public"
+              },
+              "name": [
+                {
+                  "type": "name",
+                  "value": "Mathematics: The Winton Gallery"
+                }
+              ],
+              "@datatype": "permanent gallery",
+              "@entity": "reference"
+            },
+            {
+              "@admin": {
+                "id": "facility-154870",
+                "uuid": "5d75c569-296c-34ae-82e1-9a88a193af98",
+                "status": "public"
+              },
+              "name": [
+                {
+                  "type": "name",
+                  "value": "Section 6: Maps & Models"
+                }
+              ],
+              "@datatype": "thematic zone",
+              "@entity": "reference"
+            },
+            {
+              "@admin": {
+                "id": "facility-154953",
+                "uuid": "8bd2445f-1464-3e8b-aa9c-0b19ace3b5ee",
+                "status": "public"
+              },
+              "name": [
+                {
+                  "type": "name",
+                  "value": "SH74"
+                }
+              ],
+              "@datatype": "showcase",
+              "@entity": "reference"
+            }
+          ],
+          "@entity": "reference",
+          "primary": true
+        }
+      ],
+      "language": [
+        {
+          "value": "eng"
+        }
+      ],
+      "legal": {
+        "credit": "Major-General Babbage"
+      },
+      "material": [
+        {
+          "type": "catalogue materials",
+          "value": "steel (metal)"
+        },
+        {
+          "type": "catalogue materials",
+          "value": "brass (copper, zinc alloy)"
+        },
+        {
+          "type": "catalogue materials",
+          "value": "bronze (copper, tin alloy)"
+        },
+        {
+          "type": "catalogue materials",
+          "value": "metal (unknown)"
+        },
+        {
+          "type": "catalogue materials",
+          "value": "wood (unidentified)"
+        }
+      ],
+      "measurements": {
+        "display": "Overall: 1000 mm x 1250 mm x 600 mm,",
+        "count": "1",
+        "dimensions": [
+          {
+            "type": "catalogue dimensions",
+            "value": "Overall: 1000 mm x 1250 mm x 600 mm,",
+            "primary": true
+          },
+          {
+            "units": "in",
+            "dimension": "depth",
+            "value": "23 5/8"
+          },
+          {
+            "units": "mm",
+            "dimension": "depth",
+            "value": "600"
+          },
+          {
+            "units": "in",
+            "dimension": "height",
+            "value": "39 3/8"
+          },
+          {
+            "units": "mm",
+            "dimension": "height",
+            "value": "1000"
+          },
+          {
+            "units": "in",
+            "dimension": "width",
+            "value": "49 3/16"
+          },
+          {
+            "units": "mm",
+            "dimension": "width",
+            "value": "1250"
+          }
+        ]
+      },
+      "multimedia": [
+        {
+          "@admin": {
+            "uid": "i53125",
+            "id": "media-53125",
+            "source": "smgi",
+            "uuid": "a78faeb7-2bb4-37d1-9b25-9b478e4d7143"
+          },
+          "@processed": {
+            "large": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/125/large_1878_0003__0005_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 296152
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 1536
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 1220
+                  }
+                ]
+              }
+            },
+            "small_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/125/small_thumbnail_1878_0003__0005_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 9949
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 60
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 48
+                  }
+                ]
+              }
+            },
+            "zoom": {
+              "resizable": true,
+              "@type": "image",
+              "format": "IIIF",
+              "modified": 1720022452000,
+              "location": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/53%2F125%2FAnalytical_engine_constructed_by_the_late_Chas__Babbage__F_R.ptif",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 29943240
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 4692
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 3726
+                  }
+                ]
+              }
+            },
+            "medium": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/125/medium_1878_0003__0005_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 63501
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 576
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 458
+                  }
+                ]
+              }
+            },
+            "large_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/125/large_thumbnail_1878_0003__0005_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 38771
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 403
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 320
+                  }
+                ]
+              }
+            },
+            "medium_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/125/medium_thumbnail_1878_0003__0005_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 21314
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 242
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 192
+                  }
+                ]
+              }
+            }
+          },
+          "@type": "image",
+          "upload_sort": "2015-06-04 22:53:45",
+          "legal": {
+            "rights": [
+              {
+                "licence": "CC BY-NC-SA 4.0",
+                "copyright": "© The Board of Trustees of the Science Museum"
+              }
+            ]
+          },
+          "credit": {
+            "value": "Science Museum Group Collection"
+          },
+          "@entity": "reference"
+        },
+        {
+          "@admin": {
+            "uid": "i53126",
+            "id": "media-53126",
+            "source": "smgi",
+            "uuid": "f88589d1-bdcd-3567-b220-78e156cc5e2b"
+          },
+          "@processed": {
+            "large": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/126/large_1878_0003__0006_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 192112
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 1536
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 981
+                  }
+                ]
+              }
+            },
+            "small_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/126/small_thumbnail_1878_0003__0006_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 10258
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 75
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 48
+                  }
+                ]
+              }
+            },
+            "zoom": {
+              "resizable": true,
+              "@type": "image",
+              "format": "IIIF",
+              "modified": 1720022452000,
+              "location": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/53%2F126%2FAnalytical_engine_constructed_by_the_late_Chas__Babbage__F_R.ptif",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 25825874
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 5244
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 3350
+                  }
+                ]
+              }
+            },
+            "medium": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/126/medium_1878_0003__0006_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 52819
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 576
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 368
+                  }
+                ]
+              }
+            },
+            "large_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/126/large_thumbnail_1878_0003__0006_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 44268
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 501
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 320
+                  }
+                ]
+              }
+            },
+            "medium_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/126/medium_thumbnail_1878_0003__0006_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 25328
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 301
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 192
+                  }
+                ]
+              }
+            }
+          },
+          "@type": "image",
+          "upload_sort": "2015-06-04 22:53:45",
+          "legal": {
+            "rights": [
+              {
+                "licence": "CC BY-NC-SA 4.0",
+                "copyright": "© The Board of Trustees of the Science Museum"
+              }
+            ]
+          },
+          "credit": {
+            "value": "Science Museum Group Collection"
+          },
+          "@entity": "reference"
+        },
+        {
+          "@admin": {
+            "uid": "i53123",
+            "id": "media-53123",
+            "source": "smgi",
+            "uuid": "2b2f0b7a-ddad-39ab-858f-0dfbaf8142de"
+          },
+          "@processed": {
+            "large": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/123/large_1878_0003__0003_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 365107
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 1536
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 1217
+                  }
+                ]
+              }
+            },
+            "small_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/123/small_thumbnail_1878_0003__0003_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 10249
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 61
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 48
+                  }
+                ]
+              }
+            },
+            "zoom": {
+              "resizable": true,
+              "@type": "image",
+              "format": "IIIF",
+              "modified": 1720022452000,
+              "location": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/53%2F123%2FAnalytical_engine_constructed_by_the_late_Chas__Babbage__F_R.ptif",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 34427260
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 4704
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 3726
+                  }
+                ]
+              }
+            },
+            "medium": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/123/medium_1878_0003__0003_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 83625
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 576
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 456
+                  }
+                ]
+              }
+            },
+            "large_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/123/large_thumbnail_1878_0003__0003_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 51306
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 404
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 320
+                  }
+                ]
+              }
+            },
+            "medium_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/123/medium_thumbnail_1878_0003__0003_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 26922
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 243
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 192
+                  }
+                ]
+              }
+            }
+          },
+          "@type": "image",
+          "upload_sort": "2015-06-04 22:53:44",
+          "legal": {
+            "rights": [
+              {
+                "licence": "CC BY-NC-SA 4.0",
+                "copyright": "© The Board of Trustees of the Science Museum"
+              }
+            ]
+          },
+          "credit": {
+            "value": "Science Museum Group Collection"
+          },
+          "@entity": "reference"
+        },
+        {
+          "@admin": {
+            "uid": "i53122",
+            "id": "media-53122",
+            "source": "smgi",
+            "uuid": "72d206ed-8dfa-337e-803d-636f5c900b09"
+          },
+          "@processed": {
+            "large": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/122/large_1878_0003__0002_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 289123
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 1104
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 1536
+                  }
+                ]
+              }
+            },
+            "small_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/122/small_thumbnail_1878_0003__0002_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 10066
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 48
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 67
+                  }
+                ]
+              }
+            },
+            "zoom": {
+              "resizable": true,
+              "@type": "image",
+              "format": "IIIF",
+              "modified": 1720022452000,
+              "location": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/53%2F122%2FAnalytical_engine_constructed_by_the_late_Chas__Babbage__F_R.ptif",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 27888082
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 3542
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 4928
+                  }
+                ]
+              }
+            },
+            "medium": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/122/medium_1878_0003__0002_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 97424
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 576
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 802
+                  }
+                ]
+              }
+            },
+            "large_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/122/large_thumbnail_1878_0003__0002_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 27558
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 240
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 334
+                  }
+                ]
+              }
+            },
+            "medium_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/122/medium_thumbnail_1878_0003__0002_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 16073
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 144
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 201
+                  }
+                ]
+              }
+            }
+          },
+          "@type": "image",
+          "upload_sort": "2015-06-04 22:53:43",
+          "legal": {
+            "rights": [
+              {
+                "licence": "CC BY-NC-SA 4.0",
+                "copyright": "© The Board of Trustees of the Science Museum"
+              }
+            ]
+          },
+          "credit": {
+            "value": "Science Museum Group Collection"
+          },
+          "@entity": "reference"
+        },
+        {
+          "@admin": {
+            "uid": "i53124",
+            "id": "media-53124",
+            "source": "smgi",
+            "uuid": "48f169ce-aa0e-3e61-930b-3dc18f2c24ea"
+          },
+          "@processed": {
+            "large": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/124/large_1878_0003__0004_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 344013
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 1248
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 1536
+                  }
+                ]
+              }
+            },
+            "small_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/124/small_thumbnail_1878_0003__0004_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 9756
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 48
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 59
+                  }
+                ]
+              }
+            },
+            "zoom": {
+              "resizable": true,
+              "@type": "image",
+              "format": "IIIF",
+              "modified": 1720022452000,
+              "location": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/53%2F124%2FAnalytical_engine_constructed_by_the_late_Chas__Babbage__F_R.ptif",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 31667622
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 3778
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 4650
+                  }
+                ]
+              }
+            },
+            "medium": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/124/medium_1878_0003__0004_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 90184
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 576
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 709
+                  }
+                ]
+              }
+            },
+            "large_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/124/large_thumbnail_1878_0003__0004_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 27805
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 260
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 320
+                  }
+                ]
+              }
+            },
+            "medium_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/124/medium_thumbnail_1878_0003__0004_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 16115
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 156
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 192
+                  }
+                ]
+              }
+            }
+          },
+          "@type": "image",
+          "upload_sort": "2015-06-04 22:53:44",
+          "legal": {
+            "rights": [
+              {
+                "licence": "CC BY-NC-SA 4.0",
+                "copyright": "© The Board of Trustees of the Science Museum"
+              }
+            ]
+          },
+          "credit": {
+            "value": "Science Museum Group Collection"
+          },
+          "@entity": "reference"
+        },
+        {
+          "@admin": {
+            "uid": "i53121",
+            "id": "media-53121",
+            "source": "smgi",
+            "uuid": "c7ab5b8c-9a2b-347a-8939-8a2802df9f1f"
+          },
+          "@processed": {
+            "large": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/121/large_1878_0003__0001_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 237664
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 1202
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 1536
+                  }
+                ]
+              }
+            },
+            "small_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/121/small_thumbnail_1878_0003__0001_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 9964
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 48
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 61
+                  }
+                ]
+              }
+            },
+            "zoom": {
+              "resizable": true,
+              "@type": "image",
+              "format": "IIIF",
+              "modified": 1720022452000,
+              "location": "https://zoom.sciencemuseumgroup.org.uk/iiif/3/53%2F121%2FAnalytical_engine_constructed_by_the_late_Chas__Babbage__F_R.ptif",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 23800232
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 3702
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 4730
+                  }
+                ]
+              }
+            },
+            "medium": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/121/medium_1878_0003__0001_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 74122
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 576
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 736
+                  }
+                ]
+              }
+            },
+            "large_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/121/large_thumbnail_1878_0003__0001_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 24755
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 251
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 320
+                  }
+                ]
+              }
+            },
+            "medium_thumbnail": {
+              "resizable": true,
+              "@type": "image",
+              "format": "jpeg",
+              "modified": 1720022452000,
+              "location": "https://coimages.sciencemuseumgroup.org.uk/53/121/medium_thumbnail_1878_0003__0001_.jpg",
+              "measurements": {
+                "filesize": {
+                  "units": "bytes",
+                  "value": 15163
+                },
+                "dimensions": [
+                  {
+                    "units": "pixels",
+                    "dimension": "height",
+                    "value": 151
+                  },
+                  {
+                    "units": "pixels",
+                    "dimension": "width",
+                    "value": 192
+                  }
+                ]
+              }
+            }
+          },
+          "@type": "image",
+          "upload_sort": "2015-06-04 22:53:43",
+          "legal": {
+            "rights": [
+              {
+                "licence": "CC BY-NC-SA 4.0",
+                "copyright": "© The Board of Trustees of the Science Museum"
+              }
+            ]
+          },
+          "credit": {
+            "value": "Science Museum Group Collection"
+          },
+          "@entity": "reference"
+        }
+      ],
+      "ondisplay": [
+        {
+          "type": "name",
+          "value": "Science Museum, Mathematics: The Winton Gallery",
+          "primary": true
+        },
+        {
+          "type": "gallery",
+          "value": "Mathematics: The Winton Gallery"
+        },
+        {
+          "type": "museum",
+          "value": "Science Museum"
+        }
+      ]
+    },
+    "links": {
+      "self": "https://collection.sciencemuseumgroup.org.uk/objects/co62245/babbages-analytical-engine-1834-1871-trial-model",
+      "root": "https://collection.sciencemuseumgroup.org.uk",
+      "api": "https://collection.sciencemuseumgroup.org.uk/api/objects/co62245",
+      "iiif": "https://collection.sciencemuseumgroup.org.uk/iiif/objects/co62245"
+    },
+    "relationships": {
+      "term": {
+        "data": [
+          {
+            "type": "term",
+            "id": "ct261776"
+          }
+        ]
+      },
+      "maker": {
+        "data": [
+          {
+            "type": "people",
+            "id": "cp36993"
+          }
+        ]
+      },
+      "place": {
+        "data": [
+          {
+            "type": "place",
+            "id": "cd113"
+          }
+        ]
+      },
+      "objects": {
+        "data": [
+          {
+            "type": "objects",
+            "id": "co8598848"
+          },
+          {
+            "type": "objects",
+            "id": "co134431"
+          },
+          {
+            "type": "objects",
+            "id": "co8465614"
+          },
+          {
+            "type": "objects",
+            "id": "co8538672"
+          },
+          {
+            "type": "objects",
+            "id": "co8538673"
+          },
+          {
+            "type": "objects",
+            "id": "co63198"
+          }
+        ]
+      }
+    },
+    "children": [],
+    "record": {
+      "groupingType": "SPH",
+      "recordType": "parent"
+    },
+    "counts": ""
+  },
+  "included": [
+    {
+      "type": "term",
+      "id": "ct261776",
+      "attributes": {
+        "summary": {
+          "title": "computing and data processing"
+        },
+        "@admin": {
+          "uid": "ct261776",
+          "id": "term-261776",
+          "uuid": "7e898f3c-8155-35a3-8a34-99d8754e0b5d"
+        },
+        "@entity": "reference"
+      },
+      "links": {
+        "self": "https://collection.sciencemuseumgroup.org.uk/term/ct261776"
+      }
+    },
+    {
+      "type": "people",
+      "id": "cp36993",
+      "attributes": {
+        "role": {
+          "type": "maker",
+          "value": "maker"
+        },
+        "summary": {
+          "title": "Charles Babbage"
+        },
+        "@admin": {
+          "uid": "cp36993",
+          "id": "agent-36993",
+          "uuid": "979b50db-1d7f-3285-9d01-f24c841e43d0"
+        },
+        "@entity": "reference"
+      },
+      "links": {
+        "self": "https://collection.sciencemuseumgroup.org.uk/people/cp36993"
+      }
+    },
+    {
+      "type": "place",
+      "id": "cd113",
+      "attributes": {
+        "role": {
+          "type": "place",
+          "value": "made"
+        },
+        "summary": {
+          "title": "London"
+        },
+        "@admin": {
+          "uid": "cd113",
+          "id": "place-113",
+          "uuid": "570507c0-09d4-3e9a-85da-284abeba102f"
+        },
+        "@entity": "reference"
+      },
+      "links": {
+        "self": "https://collection.sciencemuseumgroup.org.uk/place/cd113"
+      }
+    },
+    {
+      "id": "co8598848",
+      "type": "objects",
+      "attributes": {
+        "summary_title": "Guinevere, Random Number Selector",
+        "level": false,
+        "identifier": "2006-207/1",
+        "figure": "https://coimages.sciencemuseumgroup.org.uk/131/991/large_thumbnail_2006_0207__0004_.jpg"
+      },
+      "link": "https://collection.sciencemuseumgroup.org.uk/objects/co8598848/guinevere-random-number-selector"
+    },
+    {
+      "id": "co134431",
+      "type": "objects",
+      "attributes": {
+        "summary_title": "'Pedoscope' shoe-fitting X-ray viewer",
+        "level": false,
+        "identifier": "1985-774",
+        "figure": "https://coimages.sciencemuseumgroup.org.uk/494/large_thumbnail_1985_0774__0001_.jpg"
+      },
+      "link": "https://collection.sciencemuseumgroup.org.uk/objects/co134431/pedoscope-shoe-fitting-x-ray-viewer"
+    },
+    {
+      "id": "co8465614",
+      "type": "objects",
+      "attributes": {
+        "summary_title": "Maple V 5.0 Software Manual",
+        "level": false,
+        "identifier": "2015-485",
+        "figure": "https://coimages.sciencemuseumgroup.org.uk/211/96/large_thumbnail_2015_0484__0003_.jpg"
+      },
+      "link": "https://collection.sciencemuseumgroup.org.uk/objects/co8465614/maple-v-5-0-software-manual"
+    },
+    {
+      "id": "co8538672",
+      "type": "objects",
+      "attributes": {
+        "summary_title": "MATLAB Version 1.3 Program Disc Serial No: 13239",
+        "level": false,
+        "identifier": "L2015-4493",
+        "figure": "https://coimages.sciencemuseumgroup.org.uk/221/588/large_thumbnail_l2015_4494__0004_.jpg"
+      },
+      "link": "https://collection.sciencemuseumgroup.org.uk/objects/co8538672/matlab-version-1-3-program-disc-serial-no-13239"
+    },
+    {
+      "id": "co8538673",
+      "type": "objects",
+      "attributes": {
+        "summary_title": "MATLAB Version 1.0 Manual",
+        "level": false,
+        "identifier": "L2015-4494",
+        "figure": "https://coimages.sciencemuseumgroup.org.uk/221/588/large_thumbnail_l2015_4494__0004_.jpg"
+      },
+      "link": "https://collection.sciencemuseumgroup.org.uk/objects/co8538673/matlab-version-1-0-manual"
+    },
+    {
+      "id": "co63198",
+      "type": "objects",
+      "attributes": {
+        "summary_title": "Dr. Mays and Dr. Prinz's Relay-operated logic machine",
+        "level": false,
+        "identifier": "1959-25",
+        "figure": "https://coimages.sciencemuseumgroup.org.uk/31/625/large_thumbnail_1959_0025__0009_.jpg"
+      },
+      "link": "https://collection.sciencemuseumgroup.org.uk/objects/co63198/dr-mays-and-dr-prinzs-relay-operated-logic-machine"
+    }
+  ],
+  "inProduction": true
+}
