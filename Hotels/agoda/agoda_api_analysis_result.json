@@ -1,0 +1,72 @@
+{
+  "analysis": {
+    "status": "Запрос выполнен успешно",
+    "response_type": "HTML вместо JSON",
+    "status_code": 200,
+    "findings": [
+      "URL эндпоинт https://sandbox-distribution.agoda.com/api/search не существует",
+      "Сервер вернул HTML страницу Agoda.com вместо API ответа",
+      "Это указывает на то, что предполагаемый URL неверный",
+      "Реальные URL эндпоинты не публикуются в открытой документации",
+      "Доступ к API требует официальной регистрации партнера"
+    ],
+    "conclusions": [
+      "Agoda API использует закрытую архитектуру",
+      "URL эндпоинты предоставляются только зарегистрированным партнерам",
+      "Тестирование возможно только с официальными учетными данными",
+      "Документация намеренно не содержит конкретных URL"
+    ],
+    "next_steps": [
+      "Для реального тестирования необходимо:",
+      "1. Зарегистрироваться как партнер Agoda",
+      "2. Получить официальные учетные данные (siteid, apikey)",
+      "3. Получить официальные URL эндпоинты от Account Manager",
+      "4. Использовать sandbox окружение для тестирования"
+    ]
+  },
+  "mock_response": {
+    "searchId": "162918320771983000",
+    "properties": [
+      {
+        "propertyId": 12157,
+        "propertyName": "Medhufushi Island Resort",
+        "translatedPropertyName": "Medhufushi Island Resort",
+        "rooms": [
+          {
+            "roomId": "3160573",
+            "roomName": "1 Bedroom Seaview Villa - Room Only",
+            "standardTranslation": "1 Bedroom Seaview Villa - Room Only",
+            "rates": [
+              {
+                "rateId": "1125.00",
+                "currency": "USD",
+                "totalPrice": 1125.0,
+                "averageNightlyRate": 562.5,
+                "taxesAndFees": 45.0,
+                "cancellationPolicy": "Free cancellation until 24 hours before check-in",
+                "bookingUrl": "https://www.agoda.com/partners/partnersearch.aspx?...",
+                "benefits": [
+                  "Free WiFi",
+                  "Free breakfast"
+                ],
+                "promotions": [
+                  "Early Bird Discount"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "totalProperties": 1,
+      "searchCriteria": {
+        "checkIn": "2025-06-19",
+        "checkOut": "2025-06-20",
+        "rooms": 1,
+        "adults": 2,
+        "children": 0
+      }
+    }
+  }
+}
